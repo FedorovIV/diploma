@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="./styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="general-wrapper">
+      <div class="image-wrapper">
+        <img
+          src="/images/barhatsy.low.jpg"
+          width="100%"
+          height="100%"
+          class="loading-image _load"
+          loading="lazy"
+        />
+      </div>
+      <div class="image-wrapper">
+        <img
+          src="/images/barhatsy.jpg"
+          width="100%"
+          height="100%"
+          loading="lazy"
+        />
+      </div>
+    </div>
+    <script>
+      let oldImage = document.querySelector(".loading-image");
+      let imgWrapper = document.querySelector(".image-wrapper");
+
+      oldImage.onload = function () {
+        imgWrapper.classList.add("_load");
+      };
+
+      let img = document.createElement("img");
+      img.src = "/images/barhatsy.avif";
+      img.className = "loading-image _onload";
+      img.style.width = "100%";
+      img.style.height = "100%";
+
+      img.onload = function () {
+        imgWrapper.classList.remove("_load");
+        oldImage.replaceWith(img);
+      };
+    </script>
+  </body>
+</html>
