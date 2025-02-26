@@ -1,0 +1,15 @@
+{
+  "name": "comress-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "tsc node"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@onesy/lz77": "^1.0.0",
+    "@types/node": "^22.13.5"
+  }
+}
