@@ -1,0 +1,164 @@
+const ctx = document.getElementById("myChart");
+
+const cfg = {
+  type: "line", // Тип графика - линия
+  data: {
+    labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9"], // Метки по оси X
+    datasets: [
+      {
+        label: "mean", // Название второй линии
+        data: [18.8, 16.4, 15.5, 16.7, 16.9, 16.9, 16.1, 16.2, 15.9], // Данные для второй линии
+        borderColor: "rgba(54, 162, 235, 1)", // Цвет линии
+        backgroundColor: "rgba(54, 162, 235, 0.2)", // Цвет заливки (если fill включен)
+        fill: false, // Отключаем заливку под линией
+      },
+      {
+        label: "min", // Название первой линии
+        data: [15.3, 14.3, 13.9, 15, 15.1, 14.3, 14.2, 14.5, 13], // Данные для первой линии
+        borderColor: "rgba(255, 99, 132, 1)", // Цвет линии
+        backgroundColor: "rgba(255, 99, 132, 0.2)", // Цвет заливки (если fill включен)
+        fill: false, // Отключаем заливку под линией
+      },
+
+      {
+        label: "user (mean)", // Название третьей линии
+        data: [6.5, 5.4, 6, 6.1, 5.7, 5.8, 5.7, 5.6, 5.1], // Данные для третьей линии
+        borderColor: "rgba(75, 192, 192, 1)", // Цвет линии
+        backgroundColor: "rgba(75, 192, 192, 0.2)", // Цвет заливки (если fill включен)
+        fill: false, // Отключаем заливку под линией
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: {
+        display: true, // Отобразить заголовок
+        text: "Gzip decompression time", // Текст заголовка
+        font: {
+          // Настройки шрифта
+          size: 18, // Размер шрифта
+          weight: "bold", // Толщина шрифта
+        },
+        color: "#333", // Цвет текста заголовка
+        padding: {
+          top: 10, // Отступ сверху
+          bottom: 20, // Отступ снизу
+        },
+      },
+      legend: {
+        display: true, // Включить легенду
+        position: "top", // Позиция легенды
+      },
+    },
+    scales: {
+      x: {
+        title: {
+          display: true, // Включение заголовка для оси X
+          text: "Gzip level", // Подпись оси X
+          color: "#333", // Цвет текста
+          font: {
+            size: 14, // Размер текста
+            weight: "bold", // Толщина текста
+          },
+        },
+      },
+      y: {
+        title: {
+          display: true, // Включение заголовка для оси Y
+          text: "Decompression time(ms)", // Подпись оси Y
+          color: "#333",
+          font: {
+            size: 14,
+            weight: "bold",
+          },
+        },
+      },
+    },
+  },
+};
+
+new Chart(ctx, cfg);
+
+const ctx2 = document.getElementById("myChart2");
+
+const cfg2 = {
+  type: "line", // Тип графика - линия
+  data: {
+    labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"], // Метки по оси X
+    datasets: [
+      {
+        label: "mean", // Название второй линии
+        data: [
+          14.5, 14.2, 14.0, 13.7, 13.6, 13.6, 13.3, 12.9, 13.1, 14.3, 13.7,
+        ], // Данные для второй линии
+        borderColor: "rgba(54, 162, 235, 1)", // Цвет линии
+        backgroundColor: "rgba(54, 162, 235, 0.2)", // Цвет заливки (если fill включен)
+        fill: false, // Отключаем заливку под линией
+      },
+      {
+        label: "min", // Название первой линии
+        data: [12.1, 11.9, 11.4, 11.1, 11.2, 11, 11, 11, 10.4, 11.3, 11.5], // Данные для первой линии
+        borderColor: "rgba(255, 99, 132, 1)", // Цвет линии
+        backgroundColor: "rgba(255, 99, 132, 0.2)", // Цвет заливки (если fill включен)
+        fill: false, // Отключаем заливку под линией
+      },
+      {
+        label: "user (mean)", // Название третьей линии
+        data: [3.6, 3.9, 3.5, 3.6, 3.1, 3.4, 3.4, 3.5, 3.3, 4.2, 3.5], // Данные для третьей линии
+        borderColor: "rgba(75, 192, 192, 1)", // Цвет линии
+        backgroundColor: "rgba(75, 192, 192, 0.2)", // Цвет заливки (если fill включен)
+        fill: false, // Отключаем заливку под линией
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      title: {
+        display: true, // Отобразить заголовок
+        text: "Brotli decompression time", // Текст заголовка
+        font: {
+          // Настройки шрифта
+          size: 18, // Размер шрифта
+          weight: "bold", // Толщина шрифта
+        },
+        color: "#333", // Цвет текста заголовка
+        padding: {
+          top: 10, // Отступ сверху
+          bottom: 20, // Отступ снизу
+        },
+      },
+      legend: {
+        display: true, // Включить легенду
+        position: "top", // Позиция легенды
+      },
+    },
+    scales: {
+      x: {
+        title: {
+          display: true, // Включение заголовка для оси X
+          text: "Brotli quality", // Подпись оси X
+          color: "#333", // Цвет текста
+          font: {
+            size: 14, // Размер текста
+            weight: "bold", // Толщина текста
+          },
+        },
+      },
+      y: {
+        title: {
+          display: true, // Включение заголовка для оси Y
+          text: "Decompression time(ms)", // Подпись оси Y
+          color: "#333",
+          font: {
+            size: 14,
+            weight: "bold",
+          },
+        },
+      },
+    },
+  },
+};
+
+new Chart(ctx2, cfg2);

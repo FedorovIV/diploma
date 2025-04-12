@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .page-desktop-wrapper {
+    @apply w-full min-h-[100vh] dark:bg-black flex flex-col;
+  }
+}
+
+@layer components {
+  .button_gradient {
+    background: linear-gradient(90deg, #740808, #fc2c7b);
+    background-size: 200% 200%;
+    animation: gradient 7s infinite alternate;
+  }
+
+  .header__button {
+    @apply rounded-lg md:p-2 md:text-2xl active:scale-110 duration-150 shadow-md text-xl p-1;
+  }
+
+  .index__container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, 360px);
+    margin: auto;
+    max-width: 100%;
+    justify-content: center;
+    padding-top: 10px;
+  }
+
+  .categories__container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, 360px);
+    margin: auto;
+    max-width: 100%;
+    justify-content: center;
+    padding-top: 10px;
+  }
+}
+
+@layer utilities {
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+      @apply text-white;
+    }
+    50% {
+      background-position: 100% 50%;
+      @apply text-black;
+    }
+    100% {
+      background-position: 0% 50%;
+      @apply text-white;
+    }
+  }
+}
