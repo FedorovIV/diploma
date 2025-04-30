@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "@types/dotenv": "^8.2.3",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.15.3",
+    "@types/os-utils": "^0.0.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "os-utils": "^0.0.14",
+    "tsx": "^4.19.4"
+  }
+}
