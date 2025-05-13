@@ -1,27 +1,34 @@
 import express from "express";
-import dotenv from "dotenv";
 import { cpuUsage } from "os-utils";
-
-dotenv.config();
-const PORT: number = +(process.env.PORT ?? 3002);
-const NGINX_URL = process.env.NGINX_URL ?? 'http://localhost:3002';
+import { execSync, exec } from "child_process";
+import fs from "fs";
+import path from "path";
 
 const app = express();
+const PORT = parseInt(process.env.PORT || "3004");
+const NGINX_CONF_DIR = "/etc/nginx/conf.d";
+const TEMPLATE_DIR = "/etc/nginx/configs";
 
-let gzipLevel = 0;
+let gzipLevel = 5;
+let previosLevel = gzipLevel;
 
-app.get("/", (req, res) => {
-    res.redirect(NGINX_URL+`/gzip/${gzipLevel}/`);
+const applyConfig = (level: number) => {
+  const src = path.join(TEMPLATE_DIR, `gzip-${level}.conf`);
+  const dest = path.join(NGINX_CONF_DIR, `active.conf`);
+  fs.copyFileSync(src, dest);
+  execSync("nginx -s reload");
+  console.log(`Switched to gzip-${level}`);
+};
+
+app.listen(PORT, () => {
+  console.log(`Switcher listening on port ${PORT}`);
+  applyConfig(gzipLevel);
 });
 
-app.listen(PORT, () => console.log(`Switcher запущен на порту: ${PORT}`));
-
-setInterval(()=>{
-    cpuUsage((percentage)=>{
-        if (percentage > 95 && gzipLevel > 0) {
-            gzipLevel--;
-        } else if (gzipLevel < 9) {
-            gzipLevel++;
-        }
-    })
-}, 1000)
+setInterval(() => {
+  cpuUsage((load) => {
+    if (load > 0.95 && gzipLevel > 0) gzipLevel--;
+    else if (load < 0.5 && gzipLevel < 9) gzipLevel++;
+    applyConfig(gzipLevel);
+  });
+}, 2000);
