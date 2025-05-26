@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image-container" style="inset: 0px auto auto 0px">
+        <img src="./images/mysql.png" class="image-container__image" />
+        <span class="image-container__label">База данных</span>
+      </div>
+      <div class="image-container" style="inset: 0px auto auto 300px">
+        <img src="./images/express.png" class="image-container__image" />
+        <span class="image-container__label">Бекенд сервер</span>
+      </div>
+      <div class="image-container" style="inset: 0px auto auto 600px">
+        <img src="./images/nginx.png" class="image-container__image" />
+        <span class="image-container__label">Обратный прокси сервер</span>
+      </div>
+      <div class="image-container" style="inset: 0px auto auto 900px">
+        <img src="./images/react.png" class="image-container__image" />
+        <span class="image-container__label">Клиентская часть приложения</span>
+      </div>
+      <div class="image-container" style="inset: 350px auto auto 900px">
+        <img src="./images/user.jpg" class="image-container__image" />
+        <span class="image-container__label">Пользователь</span>
+      </div>
+      <div class="stick" style="inset: 130px auto auto 200px"></div>
+      <div class="stick" style="inset: 130px auto auto 500px"></div>
+      <div class="stick" style="inset: 130px auto auto 800px"></div>
+      <div
+        class="stick _vertical"
+        style="inset: 270px auto auto 1000px; height: 80px"
+      ></div>
+      <!-- <div class="stick" style="inset: 0px auto auto 0px"></div> -->
+      <span class="float-label" style="inset: 90px auto auto 220px"
+        >MySQL Protocol</span
+      >
+      <span class="float-label" style="inset: 110px auto auto 520px">HTTP</span>
+      <span class="float-label" style="inset: 110px auto auto 820px">HTTP</span>
+    </div>
+    <h3 style="font-size: 30px; margin-left: 300px; margin-top: -450px">Рисунок 1 - схема веб-приложения</h3>
+
+    <style>
+      * {
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .container {
+        padding: 20px;
+        width: 100%;
+        height: 100vh;
+        position: relative;
+      }
+
+      .image-container {
+        position: absolute;
+        width: 200px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 10px;
+      }
+
+      .image-container__image {
+        width: 100%;
+      }
+
+      .image-container__label {
+        font-size: 20px;
+      }
+
+      .stick {
+        position: absolute;
+        height: 4px;
+        background-color: black;
+        width: 100px;
+      }
+
+      .stick._vertical {
+        width: 4px;
+        height: 100px;
+      }
+
+      .float-label {
+        position: absolute;
+        font-size: 15px;
+        max-width: 100px;
+        white-space: wrap;
+      }
+    </style>
+  </body>
+</html>
