@@ -1,0 +1,4 @@
+defaultIndent: "    " # 4 пробела (или "\t" для табуляции)
+maximumIndentation: 80
+columns: 80 # Максимальная длина строки
+wrapComments: 1 # Переносить комментарии

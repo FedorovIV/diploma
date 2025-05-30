@@ -1,0 +1,32 @@
+---
+# latexindent.yaml - конфиг для переноса строк >80 символов
+defaultIndent: "  "  # 2 пробела (можно изменить на "    " или "\t")
+columns: 80          # Максимальная длина строки
+indentAfterHeadings:
+  part: 0
+  chapter: 0
+  section: 0
+  subsection: 0
+  subsubsection: 0
+  paragraph: 0
+  subparagraph: 0
+
+# Настройки переноса текста и комментариев
+wrapComments: 1       # Включить перенос комментариев
+commentIndent: "  "   # Отступ для перенесённых строк комментариев
+oneSentencePerLine: 1 # Разбивать текст по предложениям
+
+# Настройки для окружений (если нужно отключить перенос в них)
+noAdditionalIndent:
+  - verbatim
+  - lstlisting
+  - minted
+  - align*
+  - equation*
+
+# Дополнительные правила для команд
+modifyLineBreaks:
+  textBlocks:
+    wrapHard: 1       # Принудительный перенос текста
+    column: 80        # Максимальная длина строки
+    preserveBlankLines: 1
