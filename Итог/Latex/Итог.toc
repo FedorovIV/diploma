@@ -13,43 +13,42 @@
 \contentsline {subsubsection}{\numberline {2.4.6}SVG}{10}{subsubsection.2.4.6}%
 \contentsline {subsection}{\numberline {2.5}Об алгоритмах сжатия данных без потерь}{10}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Алгоритм Хаффмана}{10}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Алгоритм LZ77}{12}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Алгоритм LZ77}{13}{subsubsection.2.5.3}%
-\contentsline {subsubsection}{\numberline {2.5.4}Формат Deflate}{13}{subsubsection.2.5.4}%
-\contentsline {subsubsection}{\numberline {2.5.5}Формат сжатия Gzip (GNU zip)}{15}{subsubsection.2.5.5}%
-\contentsline {subsubsection}{\numberline {2.5.6}За счёт чего можно добиться разных степеней сжатия?}{15}{subsubsection.2.5.6}%
-\contentsline {subsection}{\numberline {2.6}Инструменты разработчика браузера}{16}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}Браузеры и JavaScript}{16}{subsubsection.2.6.1}%
-\contentsline {subsubsection}{\numberline {2.6.2}Какие функции предоставляет консоль разработчика}{16}{subsubsection.2.6.2}%
-\contentsline {subsubsection}{\numberline {2.6.3}Networks}{17}{subsubsection.2.6.3}%
-\contentsline {subsubsection}{\numberline {2.6.4}Performance}{20}{subsubsection.2.6.4}%
-\contentsline {subsubsection}{\numberline {2.6.5}Замедление процессора}{21}{subsubsection.2.6.5}%
-\contentsline {section}{\numberline {3}Измерения и анализ полученных результатов}{22}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Сравнение форматов изображений}{22}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Измерение времени декодирования}{23}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Практические рекомендации }{27}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Случай с множеством изображений }{27}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Сжатие статических файлов браузера с помощью Gzip, Brotli}{27}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Что измеряем}{28}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Технические характеристики устройства}{28}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Условия проведения эксперимента, обработка данных}{28}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}Измерение степени сжатия}{29}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Степень сжатия Brotli}{30}{subsubsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.6}Измерение времени сжатия}{30}{subsubsection.3.2.6}%
-\contentsline {subsubsection}{\numberline {3.2.7}Измерение времени декомпрессии}{34}{subsubsection.3.2.7}%
-\contentsline {subsection}{\numberline {3.3}Реальные замеры сжатия статических файлов в браузере}{36}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Постановка эксперимента}{36}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Вывод по статическим файлам JS, CSS, HTML}{37}{subsubsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.4}Нагрузочное тестирование REST запросов (динамические данные)}{37}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Описание аппаратной части сервера}{37}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2} Физический смысл выбранной нагрузки }{39}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}Эксперимент первый}{40}{subsubsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4}Эксперимент второй}{41}{subsubsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.5}Анализ полученных результатов }{43}{subsubsection.3.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.6}Зависимость CPU load, Network load от уровня сжатия}{44}{subsubsection.3.4.6}%
-\contentsline {subsubsection}{\numberline {3.4.7}Анализ полученных результатов}{51}{subsubsection.3.4.7}%
-\contentsline {subsection}{\numberline {3.5}Реализация переключателя}{51}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Дополнительный обратный прокси сервер на Express.js}{51}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Реконфигуратор Nginx }{53}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Модуль для Nginx}{53}{subsubsection.3.5.3}%
-\contentsline {section}{\numberline {4}Общие выводы}{53}{section.4}%
+\contentsline {subsubsection}{\numberline {2.5.2}Алгоритм LZ77}{11}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Алгоритм LZ77}{12}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Формат Deflate}{12}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Формат сжатия Gzip (GNU zip)}{13}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}За счёт чего можно добиться разных степеней сжатия?}{14}{subsubsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.6}Инструменты разработчика браузера}{14}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Браузеры и JavaScript}{14}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Какие функции предоставляет консоль разработчика}{14}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Networks}{15}{subsubsection.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.6.4}Performance}{18}{subsubsection.2.6.4}%
+\contentsline {subsubsection}{\numberline {2.6.5}Замедление процессора}{19}{subsubsection.2.6.5}%
+\contentsline {section}{\numberline {3}Измерения и анализ полученных результатов}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Сравнение форматов изображений}{20}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Измерение времени декодирования}{21}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Практические рекомендации }{25}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Случай с множеством изображений }{25}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Сжатие статических файлов браузера с помощью Gzip, Brotli}{26}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Что измеряем}{26}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Технические характеристики устройства}{26}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Условия проведения эксперимента, обработка данных}{27}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Измерение степени сжатия}{27}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Измерение времени сжатия}{28}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Измерение времени декомпрессии}{28}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}Реальные замеры сжатия статических файлов в браузере}{30}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Постановка эксперимента}{30}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Вывод по статическим файлам JS, CSS, HTML}{31}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Нагрузочное тестирование REST запросов (динамические данные)}{31}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Описание аппаратной части сервера}{31}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2} Физический смысл выбранной нагрузки }{34}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Эксперимент первый}{34}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Эксперимент второй}{36}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Анализ полученных результатов }{37}{subsubsection.3.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.6}Зависимость CPU load, Network load от уровня сжатия}{38}{subsubsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.7}Анализ полученных результатов}{45}{subsubsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.5}Реализация переключателя}{45}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Дополнительный обратный прокси сервер на Express.js}{45}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Реконфигуратор Nginx }{47}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Модуль для Nginx}{47}{subsubsection.3.5.3}%
+\contentsline {section}{\numberline {4}Общие выводы}{47}{section.4}%

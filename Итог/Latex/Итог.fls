@@ -227,31 +227,6 @@ INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1095.tfm
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
-INPUT ../images/haffman/phase0.png
-INPUT ../images/haffman/phase0.png
-INPUT ../images/haffman/phase0.png
-INPUT ../images/haffman/phase0.png
-INPUT ../images/haffman/phase0.png
-INPUT ../images/haffman/phase1.png
-INPUT ../images/haffman/phase1.png
-INPUT ../images/haffman/phase1.png
-INPUT ../images/haffman/phase1.png
-INPUT ../images/haffman/phase1.png
-INPUT ../images/haffman/phase2.png
-INPUT ../images/haffman/phase2.png
-INPUT ../images/haffman/phase2.png
-INPUT ../images/haffman/phase2.png
-INPUT ../images/haffman/phase2.png
-INPUT ../images/haffman/phase3.png
-INPUT ../images/haffman/phase3.png
-INPUT ../images/haffman/phase3.png
-INPUT ../images/haffman/phase3.png
-INPUT ../images/haffman/phase3.png
-INPUT ../images/haffman/phase4.png
-INPUT ../images/haffman/phase4.png
-INPUT ../images/haffman/phase4.png
-INPUT ../images/haffman/phase4.png
-INPUT ../images/haffman/phase4.png
 INPUT ../images/network.png
 INPUT ../images/network.png
 INPUT ../images/network.png
@@ -262,141 +237,132 @@ INPUT ../images/network__timing.png
 INPUT ../images/network__timing.png
 INPUT ../images/network__timing.png
 INPUT ../images/network__timing.png
-INPUT ../images/network__timing.png
-INPUT ../images/network__timing.png
-INPUT ../images/network__timing.png
-INPUT ../images/network__timing.png
+INPUT ../images/performance.png
+INPUT ../images/performance.png
+INPUT ../images/performance.png
+INPUT ../images/performance.png
+INPUT ../images/performance.png
+INPUT ../images/image_comp/image1.png
+INPUT ../images/image_comp/image1.png
+INPUT ../images/image_comp/image1.png
+INPUT ../images/image_comp/image1.png
+INPUT ../images/image_comp/image1.png
+INPUT ../images/image_comp/image4.png
+INPUT ../images/image_comp/image4.png
+INPUT ../images/image_comp/image4.png
+INPUT ../images/image_comp/image4.png
+INPUT ../images/image_comp/image4.png
+INPUT ../images/image_comp/devtools.png
+INPUT ../images/image_comp/devtools.png
+INPUT ../images/image_comp/devtools.png
+INPUT ../images/image_comp/devtools.png
+INPUT ../images/image_comp/devtools.png
+INPUT ../images/image_comp/avif_one_image.png
+INPUT ../images/image_comp/avif_one_image.png
+INPUT ../images/image_comp/avif_one_image.png
+INPUT ../images/image_comp/avif_one_image.png
+INPUT ../images/image_comp/avif_one_image.png
+INPUT ../images/gzip_compress_ratio.png
+INPUT ../images/gzip_compress_ratio.png
+INPUT ../images/gzip_compress_ratio.png
+INPUT ../images/gzip_compress_ratio.png
+INPUT ../images/gzip_compress_ratio.png
+INPUT ../images/brotli_compressed_ratio.png
+INPUT ../images/brotli_compressed_ratio.png
+INPUT ../images/brotli_compressed_ratio.png
+INPUT ../images/brotli_compressed_ratio.png
+INPUT ../images/brotli_compressed_ratio.png
+INPUT ../images/Gzip compression time (Trimmed Mean).png
+INPUT ../images/Gzip compression time (Trimmed Mean).png
+INPUT ../images/Gzip compression time (Trimmed Mean).png
+INPUT ../images/Gzip compression time (Trimmed Mean).png
+INPUT ../images/Gzip compression time (Trimmed Mean).png
+INPUT ../images/Brotli compression time (Trimmed Mean).png
+INPUT ../images/Brotli compression time (Trimmed Mean).png
+INPUT ../images/Brotli compression time (Trimmed Mean).png
+INPUT ../images/Brotli compression time (Trimmed Mean).png
+INPUT ../images/Brotli compression time (Trimmed Mean).png
+INPUT ../images/Gzip compression time (min-overhead).png
+INPUT ../images/Gzip compression time (min-overhead).png
+INPUT ../images/Gzip compression time (min-overhead).png
+INPUT ../images/Gzip compression time (min-overhead).png
+INPUT ../images/Gzip compression time (min-overhead).png
+INPUT ../images/Brotli compression time (min-overhead).png
+INPUT ../images/Brotli compression time (min-overhead).png
+INPUT ../images/Brotli compression time (min-overhead).png
+INPUT ../images/Brotli compression time (min-overhead).png
+INPUT ../images/Brotli compression time (min-overhead).png
+INPUT ../images/Decompression_time.png
+INPUT ../images/Decompression_time.png
+INPUT ../images/Decompression_time.png
+INPUT ../images/Decompression_time.png
+INPUT ../images/Decompression_time.png
+INPUT ../images/pedsovet.png
+INPUT ../images/pedsovet.png
+INPUT ../images/pedsovet.png
+INPUT ../images/pedsovet.png
+INPUT ../images/pedsovet.png
+INPUT ../images/no-compress_exp1_k6screen.png
+INPUT ../images/no-compress_exp1_k6screen.png
+INPUT ../images/no-compress_exp1_k6screen.png
+INPUT ../images/no-compress_exp1_k6screen.png
+INPUT ../images/no-compress_exp1_k6screen.png
+INPUT ../images/gzip9_exp1_k6screen.png
+INPUT ../images/gzip9_exp1_k6screen.png
+INPUT ../images/gzip9_exp1_k6screen.png
+INPUT ../images/gzip9_exp1_k6screen.png
+INPUT ../images/gzip9_exp1_k6screen.png
+INPUT ../images/no-compress_exp2_k6screen.png
+INPUT ../images/no-compress_exp2_k6screen.png
+INPUT ../images/no-compress_exp2_k6screen.png
+INPUT ../images/no-compress_exp2_k6screen.png
+INPUT ../images/no-compress_exp2_k6screen.png
+INPUT ../images/gzip9_exp2_k6screen.png
+INPUT ../images/gzip9_exp2_k6screen.png
+INPUT ../images/gzip9_exp2_k6screen.png
+INPUT ../images/gzip9_exp2_k6screen.png
+INPUT ../images/gzip9_exp2_k6screen.png
+INPUT ../images/second_part/no_compress_screenshot.png
+INPUT ../images/second_part/no_compress_screenshot.png
+INPUT ../images/second_part/no_compress_screenshot.png
+INPUT ../images/second_part/no_compress_screenshot.png
+INPUT ../images/second_part/no_compress_screenshot.png
+INPUT ../images/second_part/gzip1_screenshot.png
+INPUT ../images/second_part/gzip1_screenshot.png
+INPUT ../images/second_part/gzip1_screenshot.png
+INPUT ../images/second_part/gzip1_screenshot.png
+INPUT ../images/second_part/gzip1_screenshot.png
+INPUT ../images/second_part/gzip5_screenshot.png
+INPUT ../images/second_part/gzip5_screenshot.png
+INPUT ../images/second_part/gzip5_screenshot.png
+INPUT ../images/second_part/gzip5_screenshot.png
+INPUT ../images/second_part/gzip5_screenshot.png
+INPUT ../images/second_part/gzip9_screenshot.png
+INPUT ../images/second_part/gzip9_screenshot.png
+INPUT ../images/second_part/gzip9_screenshot.png
+INPUT ../images/second_part/gzip9_screenshot.png
+INPUT ../images/second_part/gzip9_screenshot.png
+INPUT ../images/second_part/RPS.png
+INPUT ../images/second_part/RPS.png
+INPUT ../images/second_part/RPS.png
+INPUT ../images/second_part/RPS.png
+INPUT ../images/second_part/RPS.png
+INPUT ../images/second_part/CPU_load.png
+INPUT ../images/second_part/CPU_load.png
+INPUT ../images/second_part/CPU_load.png
+INPUT ../images/second_part/CPU_load.png
+INPUT ../images/second_part/CPU_load.png
+INPUT ../images/second_part/Transmission_speed.png
+INPUT ../images/second_part/Transmission_speed.png
+INPUT ../images/second_part/Transmission_speed.png
+INPUT ../images/second_part/Transmission_speed.png
+INPUT ../images/second_part/Transmission_speed.png
+INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
+INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
+INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
+INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
+INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
-INPUT ../images/image_comp/image1.png
-INPUT ../images/image_comp/image1.png
-INPUT ../images/image_comp/image1.png
-INPUT ../images/image_comp/image1.png
-INPUT ../images/image_comp/image1.png
-INPUT ../images/image_comp/image4.png
-INPUT ../images/image_comp/image4.png
-INPUT ../images/image_comp/image4.png
-INPUT ../images/image_comp/image4.png
-INPUT ../images/image_comp/image4.png
-INPUT ../images/image_comp/devtools.png
-INPUT ../images/image_comp/devtools.png
-INPUT ../images/image_comp/devtools.png
-INPUT ../images/image_comp/devtools.png
-INPUT ../images/image_comp/devtools.png
-INPUT ../images/image_comp/avif_one_image.png
-INPUT ../images/image_comp/avif_one_image.png
-INPUT ../images/image_comp/avif_one_image.png
-INPUT ../images/image_comp/avif_one_image.png
-INPUT ../images/image_comp/avif_one_image.png
-INPUT ../images/gzip_compress_ratio.png
-INPUT ../images/gzip_compress_ratio.png
-INPUT ../images/gzip_compress_ratio.png
-INPUT ../images/gzip_compress_ratio.png
-INPUT ../images/gzip_compress_ratio.png
-INPUT ../images/brotli_compressed_ratio.png
-INPUT ../images/brotli_compressed_ratio.png
-INPUT ../images/brotli_compressed_ratio.png
-INPUT ../images/brotli_compressed_ratio.png
-INPUT ../images/brotli_compressed_ratio.png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (min).png
-INPUT ../images/Gzip compression time (min).png
-INPUT ../images/Gzip compression time (min).png
-INPUT ../images/Gzip compression time (min).png
-INPUT ../images/Gzip compression time (min).png
-INPUT ../images/Brotli compression time (min).png
-INPUT ../images/Brotli compression time (min).png
-INPUT ../images/Brotli compression time (min).png
-INPUT ../images/Brotli compression time (min).png
-INPUT ../images/Brotli compression time (min).png
-INPUT ../images/Gzip compression time (min-overhead).png
-INPUT ../images/Gzip compression time (min-overhead).png
-INPUT ../images/Gzip compression time (min-overhead).png
-INPUT ../images/Gzip compression time (min-overhead).png
-INPUT ../images/Gzip compression time (min-overhead).png
-INPUT ../images/Brotli compression time (min-overhead).png
-INPUT ../images/Brotli compression time (min-overhead).png
-INPUT ../images/Brotli compression time (min-overhead).png
-INPUT ../images/Brotli compression time (min-overhead).png
-INPUT ../images/Brotli compression time (min-overhead).png
-INPUT ../images/Decompression_time.png
-INPUT ../images/Decompression_time.png
-INPUT ../images/Decompression_time.png
-INPUT ../images/Decompression_time.png
-INPUT ../images/Decompression_time.png
-INPUT ../images/pedsovet.png
-INPUT ../images/pedsovet.png
-INPUT ../images/pedsovet.png
-INPUT ../images/pedsovet.png
-INPUT ../images/pedsovet.png
-INPUT ../images/no-compress_exp1_k6screen.png
-INPUT ../images/no-compress_exp1_k6screen.png
-INPUT ../images/no-compress_exp1_k6screen.png
-INPUT ../images/no-compress_exp1_k6screen.png
-INPUT ../images/no-compress_exp1_k6screen.png
-INPUT ../images/gzip9_exp1_k6screen.png
-INPUT ../images/gzip9_exp1_k6screen.png
-INPUT ../images/gzip9_exp1_k6screen.png
-INPUT ../images/gzip9_exp1_k6screen.png
-INPUT ../images/gzip9_exp1_k6screen.png
-INPUT ../images/no-compress_exp2_k6screen.png
-INPUT ../images/no-compress_exp2_k6screen.png
-INPUT ../images/no-compress_exp2_k6screen.png
-INPUT ../images/no-compress_exp2_k6screen.png
-INPUT ../images/no-compress_exp2_k6screen.png
-INPUT ../images/gzip9_exp2_k6screen.png
-INPUT ../images/gzip9_exp2_k6screen.png
-INPUT ../images/gzip9_exp2_k6screen.png
-INPUT ../images/gzip9_exp2_k6screen.png
-INPUT ../images/gzip9_exp2_k6screen.png
-INPUT ../images/second_part/no_compress_screenshot.png
-INPUT ../images/second_part/no_compress_screenshot.png
-INPUT ../images/second_part/no_compress_screenshot.png
-INPUT ../images/second_part/no_compress_screenshot.png
-INPUT ../images/second_part/no_compress_screenshot.png
-INPUT ../images/second_part/gzip1_screenshot.png
-INPUT ../images/second_part/gzip1_screenshot.png
-INPUT ../images/second_part/gzip1_screenshot.png
-INPUT ../images/second_part/gzip1_screenshot.png
-INPUT ../images/second_part/gzip1_screenshot.png
-INPUT ../images/second_part/gzip5_screenshot.png
-INPUT ../images/second_part/gzip5_screenshot.png
-INPUT ../images/second_part/gzip5_screenshot.png
-INPUT ../images/second_part/gzip5_screenshot.png
-INPUT ../images/second_part/gzip5_screenshot.png
-INPUT ../images/second_part/gzip9_screenshot.png
-INPUT ../images/second_part/gzip9_screenshot.png
-INPUT ../images/second_part/gzip9_screenshot.png
-INPUT ../images/second_part/gzip9_screenshot.png
-INPUT ../images/second_part/gzip9_screenshot.png
-INPUT ../images/second_part/RPS.png
-INPUT ../images/second_part/RPS.png
-INPUT ../images/second_part/RPS.png
-INPUT ../images/second_part/RPS.png
-INPUT ../images/second_part/RPS.png
-INPUT ../images/second_part/CPU_load.png
-INPUT ../images/second_part/CPU_load.png
-INPUT ../images/second_part/CPU_load.png
-INPUT ../images/second_part/CPU_load.png
-INPUT ../images/second_part/CPU_load.png
-INPUT ../images/second_part/Transmission_speed.png
-INPUT ../images/second_part/Transmission_speed.png
-INPUT ../images/second_part/Transmission_speed.png
-INPUT ../images/second_part/Transmission_speed.png
-INPUT ../images/second_part/Transmission_speed.png
-INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
-INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
-INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
-INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
-INPUT ../images/second_part/Transmission_speed_withot_nocompress.png
 INPUT Итог.aux
 INPUT ./Итог.out
 INPUT ./Итог.out
