@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="main-wrapper">
+      <div class="http-queue">
+        <div class="http-queue__request">req</div>
+        <div class="http-queue__request">req</div>
+        <div class="http-queue__request">req</div>
+        <div class="http-queue__request">req</div>
+        <p class="http-queue__label">Очередь HTTP запросов</p>
+      </div>
+      <div class="server-cpu" style="inset: 250px auto auto 0">
+        <div class="server-cpu__handling" style="margin-right: 20px">
+          <div class="server-cpu__other">T<sub>проч</sub></div>
+          <div class="server-cpu__compress">T<sub>comp</sub></div>
+        </div>
+        <div class="server-cpu__handling">
+          <div class="server-cpu__other">T<sub>проч</sub></div>
+          <div class="server-cpu__compress">T<sub>comp</sub></div>
+        </div>
+        <p class="server-cpu__label">Загрузка CPU потока сервера</p>
+      </div>
+      <div class="network-load">
+        <div class="network-load__axis">
+          <div class="network-load__download" style="margin-left: 70px"></div>
+        </div>
+        <div class="network-load__axis">
+          <div class="network-load__download" style="margin-left: 40px"></div>
+        </div>
+        <div class="network-load__axis">
+          <div class="network-load__download" style="margin-left: 30px"></div>
+        </div>
+        <div class="network-load__axis">
+          <div class="network-load__download" style="margin-left: 20px"></div>
+        </div>
+        <div class="network-load__axis">
+          <div class="network-load__download" style="margin-left: 10px"></div>
+          <div
+            class="network-load__download"
+            style="margin-left: 60px; width: 50px"
+          ></div>
+        </div>
+
+        <p class="network-load__label">Загрузка сети</p>
+
+        <div class="network-load__meaning">
+          <div class="network-load__time"></div>
+          - T<sub>down</sub>
+        </div>
+      </div>
+    </div>
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        padding: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .main-wrapper {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+      }
+
+      .http-queue {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        border: 4px solid black;
+        padding: 10px;
+        gap: 10px;
+        border-top: none;
+        border-bottom: none;
+        padding-top: 50px;
+      }
+
+      .http-queue__request {
+        padding: 5px 10px;
+        border: 2px solid blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .http-queue__label {
+        position: absolute;
+        top: -10px;
+        left: 80px;
+        width: max-content;
+      }
+
+      .server-cpu {
+        position: absolute;
+        display: flex;
+        padding: 0 30px;
+        border: 4px solid black;
+        border-left: none;
+        border-right: none;
+      }
+
+      .server-cpu__handling {
+        display: flex;
+      }
+
+      .server-cpu__other {
+        padding: 5px 25px;
+        background-color: rgb(150, 241, 150);
+      }
+      .server-cpu__compress {
+        padding: 5px 5px;
+        background-color: rgb(233, 246, 151);
+      }
+
+      .server-cpu__label {
+        position: absolute;
+        top: 20px;
+        left: 90px;
+        width: max-content;
+      }
+
+      .network-load {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        width: 300px;
+        gap: 25px;
+        top: 100px;
+        left: 400px;
+      }
+
+      .network-load__axis {
+        border-top: dotted 3px gray;
+        height: 1px;
+        display: flex;
+      }
+
+      .network-load__label {
+        position: absolute;
+        top: 110px;
+        left: 90px;
+      }
+
+      .network-load__download {
+        position: relative;
+        top: -3px;
+        height: 4px;
+        width: 100px;
+        background-color: blue;
+        border-radius: 2px;
+      }
+
+      .network-load__meaning {
+        display: flex;
+        align-items: end;
+        position: absolute;
+        top: 150px;
+        width: max-content;
+      }
+
+      .network-load__time {
+        height: 4px;
+        width: 30px;
+        background-color: blue;
+        border-radius: 2px;
+        position: relative;
+        top: -5px;
+        margin-right: 10px;
+      }
+    </style>
+  </body>
+</html>

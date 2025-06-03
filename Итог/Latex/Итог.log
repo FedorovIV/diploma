@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  2 JUN 2025 00:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  3 JUN 2025 06:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,17 +763,21 @@ l.38 ...РјРїСЂРµСЃСЃРёРё}{28}{subsubsection.3.2.6}
 
 
 [2]
+Overfull \hbox (4.53519pt too wide) in paragraph at lines 73--78
+\T2A/cmr/m/n/12 роль для обес-пе-че-ния по-ло-жи-тель-но-го поль-зо-ва-тель-ско-го опы-та (User Experience,
+ []
+
 <../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png, id=288, 753.5653pt x 446.41782pt>
 File: ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png Graphic file (type png)
 <use ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png>
-Package pdftex.def Info: ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png  used on input line 96.
+Package pdftex.def Info: ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png  used on input line 103.
 (pdftex.def)             Requested size: 430.00462pt x 254.73326pt.
 
 
 [3{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [4 <../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png>]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 135.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 142.
  (d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) (d:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -785,17 +789,17 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 [5]
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 201--204
+Underfull \hbox (badness 10000) in paragraph at lines 208--211
 
  []
 
 
-Overfull \hbox (7.22273pt too wide) in paragraph at lines 215--218
+Overfull \hbox (7.22273pt too wide) in paragraph at lines 222--225
 []\T2A/cmr/m/n/12 При сжа-тии изоб-ра-же-ние пре-об-ра-зу-ет-ся из цве-то-во-го про-стран-ства $\OML/cmm/m/it/12 RGB$ \T2A/cmr/m/n/12 в $\OML/cmm/m/it/12 YC[]C[]$\T2A/cmr/m/n/12 .
  []
 
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 219.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 226.
 
 Missing character: There is no С in font cmr12!
 
@@ -803,12 +807,12 @@ Missing character: There is no С in font cmr12!
 [7]
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--299
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
 
  []
 
@@ -821,26 +825,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 297--299
 [11]
 
 [12]
-Overfull \hbox (27.96796pt too wide) in paragraph at lines 453--454
+Overfull \hbox (27.96796pt too wide) in paragraph at lines 460--461
 []\T2A/cmr/m/n/12 Тело: Со-дер-жит сжа-тые дан-ные, вы-пол-нен-ные с по-мо-щью ал-го-рит-ма DEFLATE. 
  []
 
 
 
 [13]
-Overfull \hbox (1.59404pt too wide) in paragraph at lines 493--499
+Overfull \hbox (1.59404pt too wide) in paragraph at lines 500--506
 \T2A/cmr/m/n/12 язык, су-ще-ству-ет спе-ци-фи-ка-ция ESMA Script https://262.ecma-international.org/,
  []
 
 
-Overfull \hbox (7.7052pt too wide) in paragraph at lines 506--509
+Overfull \hbox (7.7052pt too wide) in paragraph at lines 513--516
 \T2A/cmr/m/n/12 Реализации DevTools от-ли-ча-ют-ся в за-ви-си-мо-сти от бра-у-зе-ра. Но в це-лом, DevTools
  []
 
 <../images/network.png, id=374, 551.05875pt x 414.95026pt>
 File: ../images/network.png Graphic file (type png)
 <use ../images/network.png>
-Package pdftex.def Info: ../images/network.png  used on input line 516.
+Package pdftex.def Info: ../images/network.png  used on input line 523.
 (pdftex.def)             Requested size: 430.00462pt x 323.80551pt.
 
 
@@ -850,7 +854,7 @@ Package pdftex.def Info: ../images/network.png  used on input line 516.
 <../images/network__timing.png, id=385, 443.85825pt x 335.45325pt>
 File: ../images/network__timing.png Graphic file (type png)
 <use ../images/network__timing.png>
-Package pdftex.def Info: ../images/network__timing.png  used on input line 540.
+Package pdftex.def Info: ../images/network__timing.png  used on input line 547.
 (pdftex.def)             Requested size: 430.00462pt x 324.98999pt.
 
 
@@ -858,19 +862,19 @@ Package pdftex.def Info: ../images/network__timing.png  used on input line 540.
 <../images/performance.png, id=392, 553.46774pt x 417.9615pt>
 File: ../images/performance.png Graphic file (type png)
 <use ../images/performance.png>
-Package pdftex.def Info: ../images/performance.png  used on input line 565.
+Package pdftex.def Info: ../images/performance.png  used on input line 572.
 (pdftex.def)             Requested size: 430.00462pt x 324.73952pt.
 
 
 [17]
 
 [18 <../images/performance.png>]
-Overfull \hbox (7.63766pt too wide) in paragraph at lines 619--624
+Overfull \hbox (7.63766pt too wide) in paragraph at lines 626--631
 []\T2A/cmr/m/n/12 На ос-но-ва-нии соб-ствен-но-го опы-та, мо-гу пред-по-ло-жить, что за-мед-ле-ния в DevTools
  []
 
 
-Overfull \hbox (31.23706pt too wide) in paragraph at lines 619--624
+Overfull \hbox (31.23706pt too wide) in paragraph at lines 626--631
 \T2A/cmr/m/n/12 ре-а-ли-зо-ва-ны про-грамм-но. Бра-у-зер за-мед-ля-ет вы-пол-не-ние ба-зо-вых функ-ций JavaScript
  []
 
@@ -880,12 +884,12 @@ Overfull \hbox (31.23706pt too wide) in paragraph at lines 619--624
 <../images/image_comp/image1.png, id=411, 1927.2pt x 1204.5pt>
 File: ../images/image_comp/image1.png Graphic file (type png)
 <use ../images/image_comp/image1.png>
-Package pdftex.def Info: ../images/image_comp/image1.png  used on input line 650.
+Package pdftex.def Info: ../images/image_comp/image1.png  used on input line 657.
 (pdftex.def)             Requested size: 206.40038pt x 128.98499pt.
 <../images/image_comp/image4.png, id=412, 1027.84pt x 684.5575pt>
 File: ../images/image_comp/image4.png Graphic file (type png)
 <use ../images/image_comp/image4.png>
-Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 657.
+Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 664.
 (pdftex.def)             Requested size: 206.40038pt x 137.46268pt.
 
 
@@ -893,7 +897,7 @@ Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 657
 <../images/image_comp/devtools.png, id=418, 548.0475pt x 376.40625pt>
 File: ../images/image_comp/devtools.png Graphic file (type png)
 <use ../images/image_comp/devtools.png>
-Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 680.
+Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 687.
 (pdftex.def)             Requested size: 430.00462pt x 295.33595pt.
 
 
@@ -901,14 +905,14 @@ Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 6
 <../images/image_comp/avif_one_image.png, id=426, 537.50812pt x 264.99pt>
 File: ../images/image_comp/avif_one_image.png Graphic file (type png)
 <use ../images/image_comp/avif_one_image.png>
-Package pdftex.def Info: ../images/image_comp/avif_one_image.png  used on input line 712.
+Package pdftex.def Info: ../images/image_comp/avif_one_image.png  used on input line 719.
 (pdftex.def)             Requested size: 430.00462pt x 211.99228pt.
 
 
 [22 <../images/image_comp/avif_one_image.png>]
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 788--790
+Underfull \hbox (badness 10000) in paragraph at lines 795--797
 
  []
 
@@ -922,22 +926,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 788--790
 <../images/gzip_compress_ratio.png, id=459, 487.22025pt x 218.61674pt>
 File: ../images/gzip_compress_ratio.png Graphic file (type png)
 <use ../images/gzip_compress_ratio.png>
-Package pdftex.def Info: ../images/gzip_compress_ratio.png  used on input line 930.
+Package pdftex.def Info: ../images/gzip_compress_ratio.png  used on input line 937.
 (pdftex.def)             Requested size: 206.40038pt x 92.61232pt.
 <../images/brotli_compressed_ratio.png, id=460, 511.31026pt x 232.4685pt>
 File: ../images/brotli_compressed_ratio.png Graphic file (type png)
 <use ../images/brotli_compressed_ratio.png>
-Package pdftex.def Info: ../images/brotli_compressed_ratio.png  used on input line 937.
+Package pdftex.def Info: ../images/brotli_compressed_ratio.png  used on input line 944.
 (pdftex.def)             Requested size: 206.40038pt x 93.8406pt.
 <../images/Gzip compression time (Trimmed Mean).png, id=461, 708.84825pt x 331.2375pt>
 File: ../images/Gzip compression time (Trimmed Mean).png Graphic file (type png)
 <use ../images/Gzip compression time (Trimmed Mean).png>
-Package pdftex.def Info: ../images/Gzip compression time (Trimmed Mean).png  used on input line 949.
+Package pdftex.def Info: ../images/Gzip compression time (Trimmed Mean).png  used on input line 956.
 (pdftex.def)             Requested size: 206.40038pt x 96.44559pt.
 <../images/Brotli compression time (Trimmed Mean).png, id=462, 710.655pt x 355.3275pt>
 File: ../images/Brotli compression time (Trimmed Mean).png Graphic file (type png)
 <use ../images/Brotli compression time (Trimmed Mean).png>
-Package pdftex.def Info: ../images/Brotli compression time (Trimmed Mean).png  used on input line 956.
+Package pdftex.def Info: ../images/Brotli compression time (Trimmed Mean).png  used on input line 963.
 (pdftex.def)             Requested size: 206.40038pt x 103.19955pt.
 
 
@@ -945,17 +949,17 @@ Package pdftex.def Info: ../images/Brotli compression time (Trimmed Mean).png  u
 <../images/Gzip compression time (min-overhead).png, id=470, 706.43925pt x 345.08925pt>
 File: ../images/Gzip compression time (min-overhead).png Graphic file (type png)
 <use ../images/Gzip compression time (min-overhead).png>
-Package pdftex.def Info: ../images/Gzip compression time (min-overhead).png  used on input line 969.
+Package pdftex.def Info: ../images/Gzip compression time (min-overhead).png  used on input line 976.
 (pdftex.def)             Requested size: 206.40038pt x 100.82103pt.
 <../images/Brotli compression time (min-overhead).png, id=471, 711.25725pt x 346.29375pt>
 File: ../images/Brotli compression time (min-overhead).png Graphic file (type png)
 <use ../images/Brotli compression time (min-overhead).png>
-Package pdftex.def Info: ../images/Brotli compression time (min-overhead).png  used on input line 976.
+Package pdftex.def Info: ../images/Brotli compression time (min-overhead).png  used on input line 983.
 (pdftex.def)             Requested size: 206.40038pt x 100.4913pt.
 <../images/Decompression_time.png, id=472, 788.34525pt x 772.68675pt>
 File: ../images/Decompression_time.png Graphic file (type png)
 <use ../images/Decompression_time.png>
-Package pdftex.def Info: ../images/Decompression_time.png  used on input line 993.
+Package pdftex.def Info: ../images/Decompression_time.png  used on input line 1000.
 (pdftex.def)             Requested size: 430.00462pt x 421.47733pt.
 
 
@@ -971,7 +975,7 @@ Package pdftex.def Info: ../images/Decompression_time.png  used on input line 99
 <../images/pedsovet.png, id=523, 881.54344pt x 336.50719pt>
 File: ../images/pedsovet.png Graphic file (type png)
 <use ../images/pedsovet.png>
-Package pdftex.def Info: ../images/pedsovet.png  used on input line 1137.
+Package pdftex.def Info: ../images/pedsovet.png  used on input line 1144.
 (pdftex.def)             Requested size: 430.00462pt x 164.14029pt.
 
 
@@ -981,12 +985,12 @@ Package pdftex.def Info: ../images/pedsovet.png  used on input line 1137.
 <../images/no-compress_exp1_k6screen.png, id=558, 916.92563pt x 412.54124pt>
 File: ../images/no-compress_exp1_k6screen.png Graphic file (type png)
 <use ../images/no-compress_exp1_k6screen.png>
-Package pdftex.def Info: ../images/no-compress_exp1_k6screen.png  used on input line 1185.
+Package pdftex.def Info: ../images/no-compress_exp1_k6screen.png  used on input line 1192.
 (pdftex.def)             Requested size: 430.00462pt x 193.46635pt.
 <../images/gzip9_exp1_k6screen.png, id=559, 901.86937pt x 431.36156pt>
 File: ../images/gzip9_exp1_k6screen.png Graphic file (type png)
 <use ../images/gzip9_exp1_k6screen.png>
-Package pdftex.def Info: ../images/gzip9_exp1_k6screen.png  used on input line 1191.
+Package pdftex.def Info: ../images/gzip9_exp1_k6screen.png  used on input line 1198.
 (pdftex.def)             Requested size: 430.00462pt x 205.66896pt.
 
 
@@ -994,7 +998,7 @@ Package pdftex.def Info: ../images/gzip9_exp1_k6screen.png  used on input line 1
 <../images/no-compress_exp2_k6screen.png, id=580, 885.3075pt x 397.485pt>
 File: ../images/no-compress_exp2_k6screen.png Graphic file (type png)
 <use ../images/no-compress_exp2_k6screen.png>
-Package pdftex.def Info: ../images/no-compress_exp2_k6screen.png  used on input line 1213.
+Package pdftex.def Info: ../images/no-compress_exp2_k6screen.png  used on input line 1220.
 (pdftex.def)             Requested size: 430.00462pt x 193.06505pt.
 
 
@@ -1002,7 +1006,7 @@ Package pdftex.def Info: ../images/no-compress_exp2_k6screen.png  used on input 
 <../images/gzip9_exp2_k6screen.png, id=598, 851.43094pt x 394.47375pt>
 File: ../images/gzip9_exp2_k6screen.png Graphic file (type png)
 <use ../images/gzip9_exp2_k6screen.png>
-Package pdftex.def Info: ../images/gzip9_exp2_k6screen.png  used on input line 1219.
+Package pdftex.def Info: ../images/gzip9_exp2_k6screen.png  used on input line 1226.
 (pdftex.def)             Requested size: 430.00462pt x 199.22873pt.
 
 
@@ -1012,7 +1016,7 @@ Package pdftex.def Info: ../images/gzip9_exp2_k6screen.png  used on input line 1
 <../images/second_part/no_compress_screenshot.png, id=617, 948.54375pt x 593.21625pt>
 File: ../images/second_part/no_compress_screenshot.png Graphic file (type png)
 <use ../images/second_part/no_compress_screenshot.png>
-Package pdftex.def Info: ../images/second_part/no_compress_screenshot.png  used on input line 1313.
+Package pdftex.def Info: ../images/second_part/no_compress_screenshot.png  used on input line 1320.
 (pdftex.def)             Requested size: 430.00462pt x 268.91812pt.
 
 
@@ -1020,7 +1024,7 @@ Package pdftex.def Info: ../images/second_part/no_compress_screenshot.png  used 
 <../images/second_part/gzip1_screenshot.png, id=639, 955.31906pt x 570.63188pt>
 File: ../images/second_part/gzip1_screenshot.png Graphic file (type png)
 <use ../images/second_part/gzip1_screenshot.png>
-Package pdftex.def Info: ../images/second_part/gzip1_screenshot.png  used on input line 1319.
+Package pdftex.def Info: ../images/second_part/gzip1_screenshot.png  used on input line 1326.
 (pdftex.def)             Requested size: 430.00462pt x 256.85162pt.
 
 
@@ -1028,7 +1032,7 @@ Package pdftex.def Info: ../images/second_part/gzip1_screenshot.png  used on inp
 <../images/second_part/gzip5_screenshot.png, id=646, 918.43124pt x 575.14874pt>
 File: ../images/second_part/gzip5_screenshot.png Graphic file (type png)
 <use ../images/second_part/gzip5_screenshot.png>
-Package pdftex.def Info: ../images/second_part/gzip5_screenshot.png  used on input line 1325.
+Package pdftex.def Info: ../images/second_part/gzip5_screenshot.png  used on input line 1332.
 (pdftex.def)             Requested size: 430.00462pt x 269.28436pt.
 
 
@@ -1036,7 +1040,7 @@ Package pdftex.def Info: ../images/second_part/gzip5_screenshot.png  used on inp
 <../images/second_part/gzip9_screenshot.png, id=653, 947.79094pt x 615.80063pt>
 File: ../images/second_part/gzip9_screenshot.png Graphic file (type png)
 <use ../images/second_part/gzip9_screenshot.png>
-Package pdftex.def Info: ../images/second_part/gzip9_screenshot.png  used on input line 1331.
+Package pdftex.def Info: ../images/second_part/gzip9_screenshot.png  used on input line 1338.
 (pdftex.def)             Requested size: 430.00462pt x 279.38164pt.
 
 
@@ -1044,12 +1048,12 @@ Package pdftex.def Info: ../images/second_part/gzip9_screenshot.png  used on inp
 <../images/second_part/RPS.png, id=661, 726.46407pt x 354.57469pt>
 File: ../images/second_part/RPS.png Graphic file (type png)
 <use ../images/second_part/RPS.png>
-Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1337.
+Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1344.
 (pdftex.def)             Requested size: 430.00462pt x 209.88437pt.
 <../images/second_part/CPU_load.png, id=662, 725.71124pt x 351.56343pt>
 File: ../images/second_part/CPU_load.png Graphic file (type png)
 <use ../images/second_part/CPU_load.png>
-Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 1343.
+Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 1350.
 (pdftex.def)             Requested size: 430.00462pt x 208.31647pt.
 
 
@@ -1057,28 +1061,52 @@ Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 
 <../images/second_part/Transmission_speed.png, id=671, 731.73375pt x 336.50719pt>
 File: ../images/second_part/Transmission_speed.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 1349.
+Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 1356.
 (pdftex.def)             Requested size: 430.00462pt x 197.75189pt.
 <../images/second_part/Transmission_speed_withot_nocompress.png, id=672, 748.29562pt x 364.36125pt>
 File: ../images/second_part/Transmission_speed_withot_nocompress.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed_withot_nocompress.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 1355.
+Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 1362.
 (pdftex.def)             Requested size: 430.00462pt x 209.3782pt.
 
 
 [44 <../images/second_part/CPU_load.png> <../images/second_part/Transmission_speed.png>]
 
 [45 <../images/second_part/Transmission_speed_withot_nocompress.png>]
+<../images/timing-model.png, id=689, 1065.9825pt x 555.57562pt>
+File: ../images/timing-model.png Graphic file (type png)
+<use ../images/timing-model.png>
+Package pdftex.def Info: ../images/timing-model.png  used on input line 1394.
+(pdftex.def)             Requested size: 430.00462pt x 224.10828pt.
 
-[46]
+
+[46 <../images/timing-model.png>]
 
 [47]
 
-[48
+LaTeX Warning: Command \CYRM invalid in math mode on input line 1473.
+
+Missing character: There is no М in font cmr8!
+<../images/rps-from-n.png, id=704, 771.63281pt x 452.4403pt>
+File: ../images/rps-from-n.png Graphic file (type png)
+<use ../images/rps-from-n.png>
+Package pdftex.def Info: ../images/rps-from-n.png  used on input line 1492.
+(pdftex.def)             Requested size: 430.00462pt x 252.12909pt.
+
+
+[48]
+
+[49 <../images/rps-from-n.png>]
+
+[50]
+
+[51]
+
+[52
 pdfTeX warning (ext4): destination with the same identifier (name{cite.rfc2616}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1467 \end{document}
+l.1605 \end{document}
                      ] (./РС‚РѕРі.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1092,18 +1120,18 @@ Package rerunfilecheck Info: File `РС‚РѕРі.out' has not changed.
 (rerunfilecheck)             Checksum: F21CC194289242B36269A60F3FEB0F8F;14089.
  ) 
 Here is how much of TeX's memory you used:
- 20442 strings out of 469590
- 372126 string characters out of 5474519
+ 20470 strings out of 469590
+ 372702 string characters out of 5474519
  1082221 words of memory out of 5000000
- 46805 multiletter control sequences out of 15000+600000
+ 46819 multiletter control sequences out of 15000+600000
  640976 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,13n,80p,761b,2607s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on РС‚РѕРі.pdf (49 pages, 7114798 bytes).
+<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on РС‚РѕРі.pdf (53 pages, 7219094 bytes).
 PDF statistics:
- 884 PDF objects out of 1000 (max. 8388607)
- 734 compressed objects within 8 object streams
- 283 named destinations out of 1000 (max. 500000)
- 565 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 922 PDF objects out of 1000 (max. 8388607)
+ 762 compressed objects within 8 object streams
+ 297 named destinations out of 1000 (max. 500000)
+ 575 words of extra memory for PDF output out of 10000 (max. 10000000)
 

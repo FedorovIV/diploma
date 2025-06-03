@@ -47,8 +47,8 @@
 \contentsline {subsubsection}{\numberline {3.4.5}Анализ полученных результатов }{37}{subsubsection.3.4.5}%
 \contentsline {subsubsection}{\numberline {3.4.6}Зависимость CPU load, Network load от уровня сжатия}{38}{subsubsection.3.4.6}%
 \contentsline {subsubsection}{\numberline {3.4.7}Анализ полученных результатов}{45}{subsubsection.3.4.7}%
-\contentsline {subsection}{\numberline {3.5}Реализация переключателя}{45}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Дополнительный обратный прокси сервер на Express.js}{45}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Реконфигуратор Nginx }{47}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Модуль для Nginx}{47}{subsubsection.3.5.3}%
-\contentsline {section}{\numberline {4}Общие выводы}{47}{section.4}%
+\contentsline {subsection}{\numberline {3.5}Реализация переключателя}{49}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Дополнительный обратный прокси сервер на Express.js}{50}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Реконфигуратор Nginx }{51}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Модуль для Nginx}{51}{subsubsection.3.5.3}%
+\contentsline {section}{\numberline {4}Общие выводы}{52}{section.4}%
