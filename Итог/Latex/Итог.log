@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  9 JUN 2025 12:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  9 JUN 2025 23:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -624,8 +624,10 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip61
+) (d:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 32.
+Package hyperref Info: Option `colorlinks' set `true' on input line 33.
 
 Package siunitx Info: Option "group-digits = false" has been deprecated in
 (siunitx)             this release.
@@ -664,27 +666,27 @@ LaTeX Warning: Label `fig:image2' multiply defined.
 )
 \openout1 = `РС‚РѕРі.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Info: Redefining \th on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Info: Redefining \th on input line 63.
  (d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count348
@@ -742,31 +744,24 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package translations Info: no dictionary file `translations-basic-dictionary-russian.trsl' found. on input line 62.
-Package hyperref Info: Link coloring ON on input line 62.
+Package translations Info: no dictionary file `translations-basic-dictionary-russian.trsl' found. on input line 63.
+Package hyperref Info: Link coloring ON on input line 63.
 (./РС‚РѕРі.out) (./РС‚РѕРі.out)
 \@outlinefile=\write3
 \openout3 = `РС‚РѕРі.out'.
 
-
+ (./РС‚РѕРі.toc
 
 [1
 
-{d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./РС‚РѕРі.toc
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.50 ...ЂРµРєР»СЋС‡Р°С‚РµР»СЏ}{37}{subsection.3.5}
-                                                  % [1])
+{d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}])
 \tf@toc=\write4
 \openout4 = `РС‚РѕРі.toc'.
 
 
 
 [2]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 99.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 83.
  (d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
@@ -775,7 +770,7 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 <../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png, id=299, 753.5653pt x 408.77719pt>
 File: ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png Graphic file (type png)
 <use ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png>
-Package pdftex.def Info: ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png  used on input line 136.
+Package pdftex.def Info: ../images/РЎС…РµРјР°_РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ.png  used on input line 120.
 (pdftex.def)             Requested size: 469.47049pt x 254.668pt.
 
 
@@ -786,30 +781,30 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 )
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 241--244
+Underfull \hbox (badness 10000) in paragraph at lines 225--228
 
  []
 
 
-Overfull \hbox (3.3228pt too wide) in paragraph at lines 255--258
+Overfull \hbox (3.3228pt too wide) in paragraph at lines 239--242
 []\T2A/cmr/m/n/12 При сжа-тии изоб-ра-же-ние пре-об-ра-зу-ет-ся из цве-то-во-го про-стран-ства $\OML/cmm/m/it/12 RGB$ \T2A/cmr/m/n/12 в $\OML/cmm/m/it/12 YC[]C[]$\T2A/cmr/m/n/12 .
  []
 
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 259.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 243.
 
 Missing character: There is no С in font cmr12!
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 321--323
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
 
  []
 
 
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 337--339
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
 
@@ -818,61 +813,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--339
 [8]
 
 [9]
-Overfull \hbox (6.28247pt too wide) in paragraph at lines 469--471
+Overfull \hbox (6.28247pt too wide) in paragraph at lines 453--455
 []\T2A/cmr/m/n/12 Алгоритм сло-вар-но-го сжа-тия мо-жет ис-поль-зо-вать в ка-че-стве сло-ва-ря часть преды-
  []
 
 
 
 [10]
-
-[11]
-Overfull \hbox (3.80527pt too wide) in paragraph at lines 546--549
+Overfull \hbox (3.80527pt too wide) in paragraph at lines 530--533
 []\T2A/cmr/m/n/12 Реализации DevTools от-ли-ча-ют-ся в за-ви-си-мо-сти от бра-у-зе-ра. Но в це-лом, DevTools
  []
 
+
+
+[11]
 <../images/network.png, id=370, 551.05875pt x 414.95026pt>
 File: ../images/network.png Graphic file (type png)
 <use ../images/network.png>
-Package pdftex.def Info: ../images/network.png  used on input line 556.
+Package pdftex.def Info: ../images/network.png  used on input line 540.
 (pdftex.def)             Requested size: 469.47049pt x 353.52615pt.
 
 
 [12 <../images/network.png>]
-<../images/network__timing.png, id=378, 443.85825pt x 335.45325pt>
+<../images/network__timing.png, id=377, 443.85825pt x 335.45325pt>
 File: ../images/network__timing.png Graphic file (type png)
 <use ../images/network__timing.png>
-Package pdftex.def Info: ../images/network__timing.png  used on input line 580.
+Package pdftex.def Info: ../images/network__timing.png  used on input line 564.
 (pdftex.def)             Requested size: 469.47049pt x 354.81606pt.
-
-
-[13 <../images/network__timing.png>]
-<../images/performance.png, id=385, 553.46774pt x 417.9615pt>
+<../images/performance.png, id=378, 553.46774pt x 417.9615pt>
 File: ../images/performance.png Graphic file (type png)
 <use ../images/performance.png>
-Package pdftex.def Info: ../images/performance.png  used on input line 605.
+Package pdftex.def Info: ../images/performance.png  used on input line 589.
 (pdftex.def)             Requested size: 469.47049pt x 354.5419pt.
 
 
+[13 <../images/network__timing.png>]
+
 [14 <../images/performance.png>]
-Overfull \hbox (3.73773pt too wide) in paragraph at lines 659--664
+Overfull \hbox (3.73773pt too wide) in paragraph at lines 643--648
 []\T2A/cmr/m/n/12 На ос-но-ва-нии соб-ствен-но-го опы-та, мо-гу пред-по-ло-жить, что за-мед-ле-ния в DevTools
  []
 
 
-Overfull \hbox (39.54071pt too wide) in paragraph at lines 678--682
+Overfull \hbox (39.54071pt too wide) in paragraph at lines 662--666
 \T2A/cmr/m/n/12 че-ством и сте-пе-нью сжа-тия, из PNG в WebP на сай-те `https://image.online-convert.com/convert/` 
  []
 
-<../images/image_comp/image1.png, id=392, 1927.2pt x 1204.5pt>
+<../images/image_comp/image1.png, id=394, 1927.2pt x 1204.5pt>
 File: ../images/image_comp/image1.png Graphic file (type png)
 <use ../images/image_comp/image1.png>
-Package pdftex.def Info: ../images/image_comp/image1.png  used on input line 690.
+Package pdftex.def Info: ../images/image_comp/image1.png  used on input line 674.
 (pdftex.def)             Requested size: 225.34383pt x 140.83955pt.
-<../images/image_comp/image4.png, id=393, 1027.84pt x 684.5575pt>
+<../images/image_comp/image4.png, id=395, 1027.84pt x 684.5575pt>
 File: ../images/image_comp/image4.png Graphic file (type png)
 <use ../images/image_comp/image4.png>
-Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 697.
+Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 681.
 (pdftex.def)             Requested size: 225.34383pt x 150.08083pt.
 
 
@@ -880,95 +875,93 @@ Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 697
 <../images/image_comp/devtools.png, id=401, 548.0475pt x 376.40625pt>
 File: ../images/image_comp/devtools.png Graphic file (type png)
 <use ../images/image_comp/devtools.png>
-Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 720.
+Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 704.
 (pdftex.def)             Requested size: 469.47049pt x 322.44524pt.
 
 
-[16 <../images/image_comp/image1.png> <../images/image_comp/image4.png>]
-<../images/image_comp/avif_one_image.png, id=407, 537.50812pt x 264.99pt>
+[16 <../images/image_comp/image1.png> <../images/image_comp/image4.png> <../images/image_comp/devtools.png>]
+<../images/image_comp/avif_one_image.png, id=409, 537.50812pt x 264.99pt>
 File: ../images/image_comp/avif_one_image.png Graphic file (type png)
 <use ../images/image_comp/avif_one_image.png>
-Package pdftex.def Info: ../images/image_comp/avif_one_image.png  used on input line 752.
+Package pdftex.def Info: ../images/image_comp/avif_one_image.png  used on input line 736.
 (pdftex.def)             Requested size: 469.47049pt x 231.4492pt.
 
 
-[17 <../images/image_comp/devtools.png>]
-
-[18 <../images/image_comp/avif_one_image.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 828--830
+[17 <../images/image_comp/avif_one_image.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
 
  []
 
 
 
-[19]
-Overfull \hbox (3.9385pt too wide) in paragraph at lines 900--900
+[18]
+Overfull \hbox (3.9385pt too wide) in paragraph at lines 884--884
 []\T2A/cmr/bx/n/14.4 Сжатие ста-ти-че-ских фай-лов бра-у-зе-ра с по-мо-щью Gzip, Brotli 
  []
 
 
 
-[20]
-<../images/gzip_compress_ratio.png, id=439, 487.22025pt x 218.61674pt>
+[19]
+<../images/gzip_compress_ratio.png, id=433, 487.22025pt x 218.61674pt>
 File: ../images/gzip_compress_ratio.png Graphic file (type png)
 <use ../images/gzip_compress_ratio.png>
-Package pdftex.def Info: ../images/gzip_compress_ratio.png  used on input line 970.
+Package pdftex.def Info: ../images/gzip_compress_ratio.png  used on input line 954.
 (pdftex.def)             Requested size: 225.34383pt x 101.11198pt.
-<../images/brotli_compressed_ratio.png, id=440, 511.31026pt x 232.4685pt>
+<../images/brotli_compressed_ratio.png, id=434, 511.31026pt x 232.4685pt>
 File: ../images/brotli_compressed_ratio.png Graphic file (type png)
 <use ../images/brotli_compressed_ratio.png>
-Package pdftex.def Info: ../images/brotli_compressed_ratio.png  used on input line 977.
+Package pdftex.def Info: ../images/brotli_compressed_ratio.png  used on input line 961.
 (pdftex.def)             Requested size: 225.34383pt x 102.45317pt.
+
+
+[20]
 <../images/Gzip compression time (Trimmed Mean).png, id=441, 708.84825pt x 331.2375pt>
 File: ../images/Gzip compression time (Trimmed Mean).png Graphic file (type png)
 <use ../images/Gzip compression time (Trimmed Mean).png>
-Package pdftex.def Info: ../images/Gzip compression time (Trimmed Mean).png  used on input line 989.
+Package pdftex.def Info: ../images/Gzip compression time (Trimmed Mean).png  used on input line 973.
 (pdftex.def)             Requested size: 225.34383pt x 105.30066pt.
 <../images/Brotli compression time (Trimmed Mean).png, id=442, 710.655pt x 355.3275pt>
 File: ../images/Brotli compression time (Trimmed Mean).png Graphic file (type png)
 <use ../images/Brotli compression time (Trimmed Mean).png>
-Package pdftex.def Info: ../images/Brotli compression time (Trimmed Mean).png  used on input line 996.
+Package pdftex.def Info: ../images/Brotli compression time (Trimmed Mean).png  used on input line 980.
 (pdftex.def)             Requested size: 225.34383pt x 112.67154pt.
 <../images/Gzip compression time (min-overhead).png, id=443, 706.43925pt x 345.08925pt>
 File: ../images/Gzip compression time (min-overhead).png Graphic file (type png)
 <use ../images/Gzip compression time (min-overhead).png>
-Package pdftex.def Info: ../images/Gzip compression time (min-overhead).png  used on input line 1009.
+Package pdftex.def Info: ../images/Gzip compression time (min-overhead).png  used on input line 993.
 (pdftex.def)             Requested size: 225.34383pt x 110.07802pt.
 <../images/Brotli compression time (min-overhead).png, id=444, 711.25725pt x 346.29375pt>
 File: ../images/Brotli compression time (min-overhead).png Graphic file (type png)
 <use ../images/Brotli compression time (min-overhead).png>
-Package pdftex.def Info: ../images/Brotli compression time (min-overhead).png  used on input line 1016.
+Package pdftex.def Info: ../images/Brotli compression time (min-overhead).png  used on input line 1000.
 (pdftex.def)             Requested size: 225.34383pt x 109.7119pt.
-
-
-[21 <../images/gzip_compress_ratio.png> <../images/brotli_compressed_ratio.png> <../images/Gzip compression time (Trimmed Mean).png> <../images/Brotli compression time (Trimmed Mean).png>]
-<../images/Decompression_time.png, id=455, 788.34525pt x 772.68675pt>
+<../images/Decompression_time.png, id=445, 788.34525pt x 772.68675pt>
 File: ../images/Decompression_time.png Graphic file (type png)
 <use ../images/Decompression_time.png>
-Package pdftex.def Info: ../images/Decompression_time.png  used on input line 1033.
+Package pdftex.def Info: ../images/Decompression_time.png  used on input line 1017.
 (pdftex.def)             Requested size: 469.47049pt x 460.16109pt.
 
 
-[22 <../images/Gzip compression time (min-overhead).png> <../images/Brotli compression time (min-overhead).png>]
+[21 <../images/gzip_compress_ratio.png> <../images/brotli_compressed_ratio.png> <../images/Gzip compression time (Trimmed Mean).png> <../images/Brotli compression time (Trimmed Mean).png> <../images/Gzip compression time (min-overhead).png> <../images/Brotli compression time (min-overhead).png>]
 
-[23 <../images/Decompression_time.png>]
+[22 <../images/Decompression_time.png>]
 
-[24]
-Overfull \hbox (20.12791pt too wide) in paragraph at lines 1132--1133
+[23]
+Overfull \hbox (20.12791pt too wide) in paragraph at lines 1116--1117
 []\T2A/cmr/m/n/12 когда вы-пол-нит-ся js код, вы-пол-нит-ся get за-прос на по-лу-че-ние всех ви-део /videos/getAll 
  []
 
 
 
-[25]
-<../images/pedsovet.png, id=494, 881.54344pt x 336.50719pt>
+[24]
+<../images/pedsovet.png, id=489, 881.54344pt x 336.50719pt>
 File: ../images/pedsovet.png Graphic file (type png)
 <use ../images/pedsovet.png>
-Package pdftex.def Info: ../images/pedsovet.png  used on input line 1177.
+Package pdftex.def Info: ../images/pedsovet.png  used on input line 1161.
 (pdftex.def)             Requested size: 469.47049pt x 179.21057pt.
 
 
-[26 <../images/pedsovet.png>]
+[25 <../images/pedsovet.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -977,53 +970,53 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[27]
-Overfull \hbox (15.66284pt too wide) detected at line 1341
+[26]
+Overfull \hbox (15.66284pt too wide) detected at line 1325
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1342
+Overfull \hbox (15.66284pt too wide) detected at line 1326
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1343
+Overfull \hbox (15.66284pt too wide) detected at line 1327
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1345
+Overfull \hbox (15.66284pt too wide) detected at line 1329
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1346
+Overfull \hbox (15.66284pt too wide) detected at line 1330
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1347
+Overfull \hbox (15.66284pt too wide) detected at line 1331
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1349
+Overfull \hbox (15.66284pt too wide) detected at line 1333
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1350
+Overfull \hbox (15.66284pt too wide) detected at line 1334
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1352
+Overfull \hbox (15.66284pt too wide) detected at line 1336
   \T2A/cmr/m/n/12 мс 
  []
 
 
-Overfull \hbox (15.66284pt too wide) detected at line 1353
+Overfull \hbox (15.66284pt too wide) detected at line 1337
   \T2A/cmr/m/n/12 мс 
  []
 
@@ -1031,7 +1024,7 @@ Overfull \hbox (15.66284pt too wide) detected at line 1353
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (5.87494pt too wide) detected at line 1366
+Overfull \hbox (5.87494pt too wide) detected at line 1350
 $\OT1/cmr/m/n/12 1861$
  []
 
@@ -1040,75 +1033,77 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
+[27]
+
 [28]
 
 [29]
 
-[30]
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../images/second_part/RPS.png, id=600, 726.46407pt x 354.57469pt>
+<../images/second_part/RPS.png, id=595, 726.46407pt x 354.57469pt>
 File: ../images/second_part/RPS.png Graphic file (type png)
 <use ../images/second_part/RPS.png>
-Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1577.
+Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1561.
 (pdftex.def)             Requested size: 469.47049pt x 229.14528pt.
 
 
-[31]
-<../images/second_part/CPU_load.png, id=607, 725.71124pt x 351.56343pt>
+[30]
+<../images/second_part/CPU_load.png, id=602, 725.71124pt x 351.56343pt>
 File: ../images/second_part/CPU_load.png Graphic file (type png)
 <use ../images/second_part/CPU_load.png>
-Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 1583.
+Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 1567.
 (pdftex.def)             Requested size: 469.47049pt x 227.43526pt.
 
 
-[32 <../images/second_part/RPS.png>]
-<../images/second_part/Transmission_speed.png, id=616, 731.73375pt x 336.50719pt>
+[31 <../images/second_part/RPS.png>]
+<../images/second_part/Transmission_speed.png, id=612, 731.73375pt x 336.50719pt>
 File: ../images/second_part/Transmission_speed.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 1589.
+Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 1573.
 (pdftex.def)             Requested size: 469.47049pt x 215.89786pt.
-<../images/second_part/Transmission_speed_withot_nocompress.png, id=617, 748.29562pt x 364.36125pt>
+<../images/second_part/Transmission_speed_withot_nocompress.png, id=613, 748.29562pt x 364.36125pt>
 File: ../images/second_part/Transmission_speed_withot_nocompress.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed_withot_nocompress.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 1595.
+Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 1579.
 (pdftex.def)             Requested size: 469.47049pt x 228.59808pt.
 
 
-[33 <../images/second_part/CPU_load.png> <../images/second_part/Transmission_speed.png>]
-<../images/timing-model.png, id=626, 1065.9825pt x 555.57562pt>
+[32 <../images/second_part/CPU_load.png> <../images/second_part/Transmission_speed.png>]
+<../images/timing-model.png, id=622, 1065.9825pt x 555.57562pt>
 File: ../images/timing-model.png Graphic file (type png)
 <use ../images/timing-model.png>
-Package pdftex.def Info: ../images/timing-model.png  used on input line 1627.
+Package pdftex.def Info: ../images/timing-model.png  used on input line 1611.
 (pdftex.def)             Requested size: 469.47049pt x 244.6829pt.
 
 
-[34 <../images/second_part/Transmission_speed_withot_nocompress.png>]
+[33 <../images/second_part/Transmission_speed_withot_nocompress.png>]
 
-[35 <../images/timing-model.png>]
+[34 <../images/timing-model.png>]
 
-LaTeX Warning: Command \CYRM invalid in math mode on input line 1706.
+LaTeX Warning: Command \CYRM invalid in math mode on input line 1692.
 
 Missing character: There is no М in font cmr8!
 
-Overfull \hbox (1.71768pt too wide) in paragraph at lines 1713--1714
+Overfull \hbox (1.71768pt too wide) in paragraph at lines 1699--1700
 []\T2A/cmr/m/n/12 Применим по-лу-чен-ную фор-му-лу для объ-яс-не-ния ре-зуль-та-тов экс-пе-ри-мен-тов. Для
  []
 
-<../images/rps-from-n.png, id=644, 771.63281pt x 452.4403pt>
+<../images/rps-from-n.png, id=640, 771.63281pt x 452.4403pt>
 File: ../images/rps-from-n.png Graphic file (type png)
 <use ../images/rps-from-n.png>
-Package pdftex.def Info: ../images/rps-from-n.png  used on input line 1725.
+Package pdftex.def Info: ../images/rps-from-n.png  used on input line 1711.
 (pdftex.def)             Requested size: 469.47049pt x 275.2702pt.
 
 
-[36]
+[35]
 
-[37 <../images/rps-from-n.png>]
+[36 <../images/rps-from-n.png>]
+
+[37]
 
 [38]
 
@@ -1122,21 +1117,21 @@ L3 programming layer <2025-04-29>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `РС‚РѕРі.out' has not changed.
-(rerunfilecheck)             Checksum: F21CC194289242B36269A60F3FEB0F8F;14089.
+(rerunfilecheck)             Checksum: 0DD79F7EB790F616456A39B4F8A5640C;14371.
  ) 
 Here is how much of TeX's memory you used:
- 20418 strings out of 469590
- 370136 string characters out of 5474519
- 1104530 words of memory out of 5000000
- 46769 multiletter control sequences out of 15000+600000
- 640976 words of font info for 67 fonts, out of 8000000 for 9000
+ 20456 strings out of 469590
+ 370965 string characters out of 5474519
+ 1104893 words of memory out of 5000000
+ 46804 multiletter control sequences out of 15000+600000
+ 639347 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,80p,761b,2613s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on РС‚РѕРі.pdf (40 pages, 6930838 bytes).
+ 75i,13n,80p,761b,2607s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on РС‚РѕРі.pdf (39 pages, 6901389 bytes).
 PDF statistics:
- 875 PDF objects out of 1000 (max. 8388607)
- 744 compressed objects within 8 object streams
- 295 named destinations out of 1000 (max. 500000)
- 535 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 867 PDF objects out of 1000 (max. 8388607)
+ 741 compressed objects within 8 object streams
+ 296 named destinations out of 1000 (max. 500000)
+ 543 words of extra memory for PDF output out of 10000 (max. 10000000)
 
