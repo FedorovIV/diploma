@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  29 MAY 2025 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  9 JUN 2025 00:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -383,14 +383,7 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 ) (d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
-) (./Итог_GPT.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5.
- (d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Package babel Info: 'russian' activates 'russian' shorthands.
-(babel)             Reported  on input line 5.
-)
+) (./Итог_GPT.aux)
 \openout1 = `Итог_GPT.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -408,7 +401,13 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 15.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 15.
+ (d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 LaTeX Font Info:    ... okay on input line 15.
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported  on input line 15.
 LaTeX Info: Redefining \th on input line 15.
  (d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -463,13 +462,18 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../images/Схема_веб-приложения.png, id=1, 753.5653pt x 446.41782pt>
+
+Overfull \hbox (40.62885pt too wide) in paragraph at lines 26--29
+\T2A/cmr/m/n/12 ��� ��-��-�� �� ��-��� ��-���-��-���� ��-��-���-�� ���-��� �� ���-��-�� REST API (Representational
+ []
+
+<../images/Схема_веб-приложения.png, id=1, 753.5653pt x 408.77719pt>
 File: ../images/Схема_веб-приложения.png Graphic file (type png)
 <use ../images/Схема_веб-приложения.png>
-Package pdftex.def Info: ../images/Схема_веб-приложения.png  used on input line 34.
-(pdftex.def)             Requested size: 227.62206pt x 134.83914pt.
+Package pdftex.def Info: ../images/Схема_веб-приложения.png  used on input line 38.
+(pdftex.def)             Requested size: 227.62206pt x 123.46991pt.
 
-Overfull \hbox (26.87907pt too wide) in paragraph at lines 47--53
+Overfull \hbox (26.87907pt too wide) in paragraph at lines 51--57
 \T2A/cmr/m/n/12 ����-��-�� ����-��-��-��-��, ��-���-��-����/������� ��-��� �����-��� - ��� ����� ���-����������,
  []
 
@@ -478,387 +482,387 @@ Overfull \hbox (26.87907pt too wide) in paragraph at lines 47--53
 [1
 
 {d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc} <../images/Схема_веб-приложения.png>]
-Overfull \hbox (3.76994pt too wide) in paragraph at lines 62--79
+Overfull \hbox (3.76994pt too wide) in paragraph at lines 66--83
 \T2A/cmr/m/n/12 <meta charset="UTF-8� <meta name="viewport"content="width=device-width, initial-
  []
 
 
-Overfull \hbox (4.97786pt too wide) in paragraph at lines 62--79
+Overfull \hbox (4.97786pt too wide) in paragraph at lines 66--83
 \T2A/cmr/m/n/12 scale=1.0� <title>Videohosting</title> <link rel="stylesheet"href="./main.css� <script
  []
 
 
-Overfull \hbox (15.45113pt too wide) in paragraph at lines 80--89
+Overfull \hbox (15.45113pt too wide) in paragraph at lines 84--93
 []\T2A/cmr/m/n/12 ����� ��-����-�� ���-�� ���-�-��� ��-��-��-�� ��� ��-��-��-��-����: ����-��-�� DOM (Document
  []
 
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 114.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 118.
 
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \CYRS invalid in math mode on input line 135.
+LaTeX Warning: Command \CYRS invalid in math mode on input line 139.
 
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 140.
+LaTeX Warning: Command \cyri invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 140.
+LaTeX Warning: Command \cyre invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 140.
+LaTeX Warning: Command \cyri invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \CYRK invalid in math mode on input line 140.
+LaTeX Warning: Command \CYRK invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrzh invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrzh invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 140.
+LaTeX Warning: Command \cyre invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 140.
+LaTeX Warning: Command \cyre invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 140.
+LaTeX Warning: Command \cyri invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 140.
+LaTeX Warning: Command \cyre invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 140.
+LaTeX Warning: Command \cyru invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 140.
+LaTeX Warning: Command \cyri invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 140.
+LaTeX Warning: Command \cyru invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 140.
+LaTeX Warning: Command \cyru invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 140.
+LaTeX Warning: Command \cyre invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 140.
+LaTeX Warning: Command \cyro invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 140.
+LaTeX Warning: Command \cyra invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 140.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 140.
+LaTeX Warning: Command \cyri invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \cyryu invalid in math mode on input line 140.
+LaTeX Warning: Command \cyryu invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \CYRD invalid in math mode on input line 140.
+LaTeX Warning: Command \CYRD invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \CYRK invalid in math mode on input line 140.
+LaTeX Warning: Command \CYRK invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 140.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \CYRF invalid in math mode on input line 141.
+LaTeX Warning: Command \CYRF invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 141.
+LaTeX Warning: Command \cyro invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 141.
+LaTeX Warning: Command \cyru invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 141.
+LaTeX Warning: Command \cyra invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 141.
+LaTeX Warning: Command \cyri invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 141.
+LaTeX Warning: Command \cyre invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 141.
+LaTeX Warning: Command \cyri invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 141.
+LaTeX Warning: Command \cyro invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 141.
+LaTeX Warning: Command \cyri invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrc invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 141.
+LaTeX Warning: Command \cyri invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 141.
+LaTeX Warning: Command \cyre invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 141.
+LaTeX Warning: Command \cyro invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \CYRD invalid in math mode on input line 141.
+LaTeX Warning: Command \CYRD invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \CYRK invalid in math mode on input line 141.
+LaTeX Warning: Command \CYRK invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 141.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 145.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
@@ -981,70 +985,70 @@ Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 141.
+LaTeX Warning: Command \cyro invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 141.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 141.
+LaTeX Warning: Command \cyra invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \texttimes invalid in math mode on input line 141.
+LaTeX Warning: Command \texttimes invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \texttimes invalid in math mode on input line 141.
+LaTeX Warning: Command \texttimes invalid in math mode on input line 145.
 
 
-LaTeX Warning: Command \CYRK invalid in math mode on input line 142.
+LaTeX Warning: Command \CYRK invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 142.
+LaTeX Warning: Command \cyro invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 142.
+LaTeX Warning: Command \cyri invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrc invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 142.
+LaTeX Warning: Command \cyri invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 142.
+LaTeX Warning: Command \cyre invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \CYRD invalid in math mode on input line 142.
+LaTeX Warning: Command \CYRD invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \CYRK invalid in math mode on input line 142.
+LaTeX Warning: Command \CYRK invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 142.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 146.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
@@ -1068,64 +1072,64 @@ Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 142.
+LaTeX Warning: Command \cyri invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyryu invalid in math mode on input line 142.
+LaTeX Warning: Command \cyryu invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 142.
+LaTeX Warning: Command \cyro invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 142.
+LaTeX Warning: Command \cyro invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 142.
+LaTeX Warning: Command \cyru invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 142.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 146.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 142.
+LaTeX Warning: Command \cyre invalid in math mode on input line 146.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
@@ -1148,18 +1152,18 @@ Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 146.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 150.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 146.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 150.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 146.
+LaTeX Warning: Command \cyre invalid in math mode on input line 150.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:147: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:151: Missing $ inserted.
 <inserted text> 
                 $
-l.147 
+l.151 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1170,11 +1174,11 @@ Missing character: There is no � in font cmr12!
 
 
 [2]
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:154: Extra alignment tab has been changed to \cr.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:158: Extra alignment tab has been changed to \cr.
 <template> $\hfil $$\endtemplate 
                                  
-l.154 1 &
-          \text{иначе}.
+l.158             1                  &
+                                       \text{иначе}.
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
@@ -1185,12 +1189,12 @@ So I'll assume that you meant to type \cr instead.
 <../images/haffman/phase0.png, id=26, 533.74406pt x 355.3275pt>
 File: ../images/haffman/phase0.png Graphic file (type png)
 <use ../images/haffman/phase0.png>
-Package pdftex.def Info: ../images/haffman/phase0.png  used on input line 211.
+Package pdftex.def Info: ../images/haffman/phase0.png  used on input line 215.
 (pdftex.def)             Requested size: 227.62206pt x 151.53539pt.
 <../images/haffman/phase1.png, id=27, 543.53062pt x 355.3275pt>
 File: ../images/haffman/phase1.png Graphic file (type png)
 <use ../images/haffman/phase1.png>
-Package pdftex.def Info: ../images/haffman/phase1.png  used on input line 217.
+Package pdftex.def Info: ../images/haffman/phase1.png  used on input line 221.
 (pdftex.def)             Requested size: 227.62206pt x 148.8082pt.
 
 
@@ -1199,7 +1203,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/haffman/phase2.png, id=28, 539.01375pt x 364.36125pt>
 File: ../images/haffman/phase2.png Graphic file (type png)
 <use ../images/haffman/phase2.png>
-Package pdftex.def Info: ../images/haffman/phase2.png  used on input line 223.
+Package pdftex.def Info: ../images/haffman/phase2.png  used on input line 227.
 (pdftex.def)             Requested size: 227.62206pt x 153.8702pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1207,7 +1211,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/haffman/phase3.png, id=29, 537.50812pt x 364.36125pt>
 File: ../images/haffman/phase3.png Graphic file (type png)
 <use ../images/haffman/phase3.png>
-Package pdftex.def Info: ../images/haffman/phase3.png  used on input line 229.
+Package pdftex.def Info: ../images/haffman/phase3.png  used on input line 233.
 (pdftex.def)             Requested size: 227.62206pt x 154.29828pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1215,7 +1219,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/haffman/phase4.png, id=30, 534.49687pt x 364.36125pt>
 File: ../images/haffman/phase4.png Graphic file (type png)
 <use ../images/haffman/phase4.png>
-Package pdftex.def Info: ../images/haffman/phase4.png  used on input line 235.
+Package pdftex.def Info: ../images/haffman/phase4.png  used on input line 239.
 (pdftex.def)             Requested size: 227.62206pt x 155.1656pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1229,232 +1233,79 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [6 <../images/haffman/phase4.png>]
 
 [7]
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:314: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:316: Missing $ inserted.
 <inserted text> 
                 $
-l.314 ...� DEFLATE, можно менять match_
+l.316 ...� DEFLATE, можно менять match_
                                                   len(t+1) = L
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \CYRI invalid in math mode on input line 315.
+LaTeX Warning: Command \CYRI invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrz invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrch invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrz invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 315.
-
-
-LaTeX Warning: Command \CYRB invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyrz invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 316.
-
-
-LaTeX Warning: Command \CYRN invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 317.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 317.
 
 
 LaTeX Warning: Command \cyrs invalid in math mode on input line 317.
 
 
+LaTeX Warning: Command \cyrt invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 317.
+
+
 LaTeX Warning: Command \cyre invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 317.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 317.
 
 
 LaTeX Warning: Command \cyro invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 317.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrsh invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 317.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 317.
 
 
 LaTeX Warning: Command \cyri invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrshch invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 317.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 317.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 317.
 
 
 LaTeX Warning: Command \cyra invalid in math mode on input line 317.
@@ -1481,15 +1332,168 @@ LaTeX Warning: Command \cyre invalid in math mode on input line 317.
 LaTeX Warning: Command \cyrr invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 317.
+LaTeX Warning: Command \cyra invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 317.
+LaTeX Warning: Command \CYRB invalid in math mode on input line 318.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:318: Missing $ inserted.
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 318.
+
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrshch invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 319.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 319.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:320: Missing $ inserted.
 <inserted text> 
                 $
-l.318 
+l.320 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1580,12 +1584,12 @@ Missing character: There is no � in font cmr12!
 <../images/network.png, id=49, 551.05875pt x 414.95026pt>
 File: ../images/network.png Graphic file (type png)
 <use ../images/network.png>
-Package pdftex.def Info: ../images/network.png  used on input line 331.
+Package pdftex.def Info: ../images/network.png  used on input line 333.
 (pdftex.def)             Requested size: 227.62206pt x 171.40335pt.
 <../images/network__timing.png, id=50, 443.85825pt x 335.45325pt>
 File: ../images/network__timing.png Graphic file (type png)
 <use ../images/network__timing.png>
-Package pdftex.def Info: ../images/network__timing.png  used on input line 338.
+Package pdftex.def Info: ../images/network__timing.png  used on input line 340.
 (pdftex.def)             Requested size: 227.62206pt x 172.03093pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1595,7 +1599,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [8 <../images/network.png>]
 File: ../images/network__timing.png Graphic file (type png)
 <use ../images/network__timing.png>
-Package pdftex.def Info: ../images/network__timing.png  used on input line 364.
+Package pdftex.def Info: ../images/network__timing.png  used on input line 366.
 (pdftex.def)             Requested size: 227.62206pt x 172.03093pt.
 
 
@@ -1607,7 +1611,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/image_comp/image1.png, id=59, 1927.2pt x 1204.5pt>
 File: ../images/image_comp/image1.png Graphic file (type png)
 <use ../images/image_comp/image1.png>
-Package pdftex.def Info: ../images/image_comp/image1.png  used on input line 410.
+Package pdftex.def Info: ../images/image_comp/image1.png  used on input line 412.
 (pdftex.def)             Requested size: 227.62206pt x 142.25475pt.
 
 
@@ -1616,7 +1620,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/image_comp/image4.png, id=60, 1027.84pt x 684.5575pt>
 File: ../images/image_comp/image4.png Graphic file (type png)
 <use ../images/image_comp/image4.png>
-Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 416.
+Package pdftex.def Info: ../images/image_comp/image4.png  used on input line 418.
 (pdftex.def)             Requested size: 227.62206pt x 151.59543pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1624,7 +1628,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/image_comp/devtools.png, id=61, 548.0475pt x 376.40625pt>
 File: ../images/image_comp/devtools.png Graphic file (type png)
 <use ../images/image_comp/devtools.png>
-Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 432.
+Package pdftex.def Info: ../images/image_comp/devtools.png  used on input line 434.
 (pdftex.def)             Requested size: 227.62206pt x 156.33777pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1633,48 +1637,48 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10]
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 447.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 449.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 447.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 449.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 447.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 449.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 447.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 449.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 <../images/image_comp/avif_one_image.png, id=65, 537.50812pt x 264.99pt>
 File: ../images/image_comp/avif_one_image.png Graphic file (type png)
 <use ../images/image_comp/avif_one_image.png>
-Package pdftex.def Info: ../images/image_comp/avif_one_image.png  used on input line 452.
+Package pdftex.def Info: ../images/image_comp/avif_one_image.png  used on input line 454.
 (pdftex.def)             Requested size: 227.62206pt x 112.21693pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 456.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 458.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 456.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 458.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 459.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 461.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 459.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 461.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 459.
+LaTeX Warning: Command \cyro invalid in math mode on input line 461.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 459.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 461.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
@@ -1684,42 +1688,42 @@ Missing character: There is no � in font cmr12!
 
 [11 <../images/image_comp/image1.png> <../images/image_comp/image4.png> <../images/image_comp/devtools.png>]
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 463.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 465.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 463.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 465.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 463.
+LaTeX Warning: Command \cyro invalid in math mode on input line 465.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 463.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 465.
 
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 464.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 466.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 464.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 464.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 464.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 466.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 487.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 466.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 487.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 466.
+
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 489.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
@@ -1727,98 +1731,42 @@ Missing character: There is no � in font cmr12!
 
 [12 <../images/image_comp/avif_one_image.png>]
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 517.
+LaTeX Warning: Command \cyro invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 517.
+LaTeX Warning: Command \cyro invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 517.
+LaTeX Warning: Command \cyri invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 517.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 519.
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 517.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrch invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrch invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 521.
-
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 521.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 519.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
@@ -1827,22 +1775,78 @@ Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 524.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 523.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 524.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 523.
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 524.
+LaTeX Warning: Command \cyro invalid in math mode on input line 523.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 524.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 523.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 524.
+LaTeX Warning: Command \cyri invalid in math mode on input line 523.
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 524.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 523.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 523.
+
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 526.
 
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
@@ -1851,22 +1855,22 @@ Missing character: There is no � in font cmr6!
 Missing character: There is no � in font cmr6!
 Missing character: There is no � in font cmr6!
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 527.
+LaTeX Warning: Command \cyri invalid in math mode on input line 529.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 527.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 529.
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 527.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 529.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 527.
+LaTeX Warning: Command \cyri invalid in math mode on input line 529.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 527.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 529.
 
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 527.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 529.
 
 Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr8!
@@ -1874,21 +1878,6 @@ Missing character: There is no � in font cmr8!
 Missing character: There is no � in font cmr6!
 Missing character: There is no � in font cmr6!
 Missing character: There is no � in font cmr6!
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 530.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 530.
-
-
-LaTeX Warning: Command \cyrh invalid in math mode on input line 530.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-LaTeX Warning: Command \CYRM invalid in math mode on input line 532.
-
 
 LaTeX Warning: Command \cyri invalid in math mode on input line 532.
 
@@ -1898,124 +1887,139 @@ LaTeX Warning: Command \cyrs invalid in math mode on input line 532.
 
 LaTeX Warning: Command \cyrh invalid in math mode on input line 532.
 
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 534.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 534.
+LaTeX Warning: Command \CYRM invalid in math mode on input line 534.
 
 
 LaTeX Warning: Command \cyri invalid in math mode on input line 534.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 534.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 534.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 534.
+
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 536.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 536.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 536.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 536.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-Overfull \hbox (28.43782pt too wide) in paragraph at lines 515--538
+Overfull \hbox (28.43782pt too wide) in paragraph at lines 517--540
 \T2A/cmr/m/n/12 ��-��� $\OML/cmm/m/it/12 T[][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 T[][]$ \T2A/cmr/m/n/12 ��� ���-��-���-��-���-��-�� ����-��-��-���: $\OML/cmm/m/it/12 T[] \OT1/cmr/m/n/12 + [] +
  []
 
 
-Overfull \hbox (38.68991pt too wide) in paragraph at lines 515--538
+Overfull \hbox (38.68991pt too wide) in paragraph at lines 517--540
 \OML/cmm/m/it/12 T[][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 T[] \OT1/cmr/m/n/12 + [] + \OML/cmm/m/it/12 T[][]$ $[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 T[] \OT1/cmr/m/n/12 = [] +
  []
 
 
-Overfull \hbox (2.00215pt too wide) in paragraph at lines 515--538
+Overfull \hbox (2.00215pt too wide) in paragraph at lines 517--540
 []$ $[] \OT1/cmr/m/n/12 = 2\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 9$\T2A/cmr/m/n/12 ��, $\OML/cmm/m/it/12 k[] \OT1/cmr/m/n/12 = 8\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 89$\T2A/cmr/m/n/12 , $\OML/cmm/m/it/12 k[] \OT1/cmr/m/n/12 = 16\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 14$ $\OML/cmm/m/it/12 V[] \OT1/cmr/m/n/12 =
  []
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 568.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 570.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 568.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 570.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 568.
+LaTeX Warning: Command \cyri invalid in math mode on input line 570.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 568.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 570.
 
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 Missing character: There is no � in font cmr12!
 
-Overfull \hbox (111.35619pt too wide) in paragraph at lines 585--599
+Overfull \hbox (111.35619pt too wide) in paragraph at lines 587--601
 \T2A/cmr/m/n/12 ��, ��-��-���-�� ���-��� ��� ���-��� ��-����-��-��-�� ���-��-�� gzipper (https://www.npmjs.com/package/gzipper)
  []
 
 
 
 [13]
-<../images/gzip_compress_ratio.png, id=78, 487.22025pt x 246.9225pt>
+<../images/gzip_compress_ratio.png, id=78, 487.22025pt x 218.61674pt>
 File: ../images/gzip_compress_ratio.png Graphic file (type png)
 <use ../images/gzip_compress_ratio.png>
-Package pdftex.def Info: ../images/gzip_compress_ratio.png  used on input line 608.
-(pdftex.def)             Requested size: 227.62206pt x 115.35655pt.
-<../images/brotli_compressed_ratio.png, id=79, 511.31026pt x 258.36525pt>
+Package pdftex.def Info: ../images/gzip_compress_ratio.png  used on input line 610.
+(pdftex.def)             Requested size: 227.62206pt x 102.13275pt.
+<../images/brotli_compressed_ratio.png, id=79, 511.31026pt x 232.4685pt>
 File: ../images/brotli_compressed_ratio.png Graphic file (type png)
 <use ../images/brotli_compressed_ratio.png>
-Package pdftex.def Info: ../images/brotli_compressed_ratio.png  used on input line 615.
-(pdftex.def)             Requested size: 227.62206pt x 115.0175pt.
+Package pdftex.def Info: ../images/brotli_compressed_ratio.png  used on input line 617.
+(pdftex.def)             Requested size: 227.62206pt x 103.48894pt.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: Missing endcsname inserted.
 <to be read again> 
                     
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: Missing endcsname inserted.
 <to be read again> 
                     
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: Missing endcsname inserted.
 <to be read again> 
                     
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2023,67 +2027,67 @@ made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:623: LaTeX Error: File `../images/Gzip\ compression\ time\ (Trimmed\ Mean).png' not found.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:625: LaTeX Error: File `../images/Gzip\ compression\ time\ (Trimmed\ Mean).png' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.623 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.625 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: Missing endcsname inserted.
 <to be read again> 
                     
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: Missing endcsname inserted.
 <to be read again> 
                     
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: Missing endcsname inserted.
 <to be read again> 
                     
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2091,67 +2095,67 @@ made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:630: LaTeX Error: File `../images/Brotli\ compression\ time\ (Trimmed\ Mean).png' not found.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:632: LaTeX Error: File `../images/Brotli\ compression\ time\ (Trimmed\ Mean).png' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.630 ...\ compression\ time\ (Trimmed\ Mean).png}
+l.632 ...\ compression\ time\ (Trimmed\ Mean).png}
                                                   
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: Missing endcsname inserted.
 <to be read again> 
                     
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: Missing endcsname inserted.
 <to be read again> 
                     
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: Missing endcsname inserted.
 <to be read again> 
                     
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2159,13 +2163,13 @@ made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:642: LaTeX Error: File `../images/Gzip\ compression\ time\ (min).png' not found.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:644: LaTeX Error: File `../images/Gzip\ compression\ time\ (min).png' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.642 ...mages/Gzip\ compression\ time\ (min).png}
+l.644 ...mages/Gzip\ compression\ time\ (min).png}
                                                   
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -2175,54 +2179,54 @@ If that doesn't work, type  X <return>  to quit.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: Missing endcsname inserted.
 <to be read again> 
                     
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: Missing endcsname inserted.
 <to be read again> 
                     
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: Missing endcsname inserted.
 <to be read again> 
                     
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2230,13 +2234,84 @@ made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:649: LaTeX Error: File `../images/Brotli\ compression\ time\ (min).png' not found.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:651: LaTeX Error: File `../images/Brotli\ compression\ time\ (min).png' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.649 ...ges/Brotli\ compression\ time\ (min).png}
+l.651 ...ges/Brotli\ compression\ time\ (min).png}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: Missing endcsname inserted.
+<to be read again> 
+                    
+l.659 ...p\ compression\ time\ (min-overhead).png}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error:  invalid in file name. Lost: compression time...
+l.659 ...p\ compression\ time\ (min-overhead).png}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: Missing endcsname inserted.
+<to be read again> 
+                    
+l.659 ...p\ compression\ time\ (min-overhead).png}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error:  invalid in file name. Lost: compression time...
+l.659 ...p\ compression\ time\ (min-overhead).png}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: Missing endcsname inserted.
+<to be read again> 
+                    
+l.659 ...p\ compression\ time\ (min-overhead).png}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX Error:  invalid in file name. Lost: compression time...
+l.659 ...p\ compression\ time\ (min-overhead).png}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:659: LaTeX Error: File `../images/Gzip\ compression\ time\ (min-overhead).png' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.659 ...p\ compression\ time\ (min-overhead).png}
                                                   
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -2246,54 +2321,54 @@ If that doesn't work, type  X <return>  to quit.
 
 
 [14 <../images/gzip_compress_ratio.png> <../images/brotli_compressed_ratio.png>]
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: Missing endcsname inserted.
 <to be read again> 
                     
-l.657 ...p\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.657 ...p\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: Missing endcsname inserted.
 <to be read again> 
                     
-l.657 ...p\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.657 ...p\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
 made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: Missing endcsname inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: Missing endcsname inserted.
 <to be read again> 
                     
-l.657 ...p\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: Use of ??? doesn't match its definition.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: Use of ??? doesn't match its definition.
 <argument> ???  
                 ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.657 ...p\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2301,81 +2376,13 @@ made up of letters only. The macro here has not been
 followed by the required stuff, so I'm ignoring it.
 
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:657: LaTeX Error: File `../images/Gzip\ compression\ time\ (min-overhead).png' not found.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:666: LaTeX Error: File `../images/Brotli\ compression\ time\ (min-overhead).png' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.657 ...p\ compression\ time\ (min-overhead).png}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: Missing endcsname inserted.
-<to be read again> 
-                    
-l.664 ...i\ compression\ time\ (min-overhead).png}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: Use of ??? doesn't match its definition.
-<argument> ???  
-                ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.664 ...i\ compression\ time\ (min-overhead).png}
-                                                  
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: Missing endcsname inserted.
-<to be read again> 
-                    
-l.664 ...i\ compression\ time\ (min-overhead).png}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: Use of ??? doesn't match its definition.
-<argument> ???  
-                ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.664 ...i\ compression\ time\ (min-overhead).png}
-                                                  
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: Missing endcsname inserted.
-<to be read again> 
-                    
-l.664 ...i\ compression\ time\ (min-overhead).png}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: Use of ??? doesn't match its definition.
-<argument> ???  
-                ! LaTeX Error:  invalid in file name. Lost: compression time...
-l.664 ...i\ compression\ time\ (min-overhead).png}
-                                                  
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:664: LaTeX Error: File `../images/Brotli\ compression\ time\ (min-overhead).png' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.664 ...i\ compression\ time\ (min-overhead).png}
+l.666 ...i\ compression\ time\ (min-overhead).png}
                                                   
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -2385,88 +2392,90 @@ If that doesn't work, type  X <return>  to quit.
 <../images/Decompression_time.png, id=85, 788.34525pt x 772.68675pt>
 File: ../images/Decompression_time.png Graphic file (type png)
 <use ../images/Decompression_time.png>
-Package pdftex.def Info: ../images/Decompression_time.png  used on input line 672.
+Package pdftex.def Info: ../images/Decompression_time.png  used on input line 674.
 (pdftex.def)             Requested size: 227.62206pt x 223.09482pt.
 
-Overfull \hbox (14.31223pt too wide) in paragraph at lines 668--675
+Overfull \hbox (14.31223pt too wide) in paragraph at lines 670--677
 \T2A/cmr/m/n/12 gunzip ���-��-��-��-�� �� Ubuntu Linux 24.04. ��� ��-��-��� ��-����-��-��-�� ���-��-�� hyperfine.
  []
 
 
-
-[15 <../images/Decompression_time.png>]
-Overfull \hbox (120.78716pt too wide) in paragraph at lines 692--698
+Overfull \hbox (120.78716pt too wide) in paragraph at lines 694--700
 []\T2A/cmr/m/n/12 ��������� html ��-��-���� ���-��� html ��-��-���� �����-��-�� <script src="http://localhost:88/main.js"/>,
  []
 
 
 
-[16]
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:765: Missing $ inserted.
+[15 <../images/Decompression_time.png>]
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:767: Missing $ inserted.
 <inserted text> 
                 $
-l.765     src_
+l.767     src_
               url: "https://cdn.example.com/videos/video_19.mp4",
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:770: Extra }, or forgotten $.
-l.770   }
-         ,
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:772: Extra }, or forgotten $.
+l.772     }
+           ,
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:773: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:775: Missing $ inserted.
 <inserted text> 
                 $
-l.773 
+l.775 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (13.96558pt too wide) in paragraph at lines 757--773
+Overfull \hbox (13.96558pt too wide) in paragraph at lines 759--775
 \OML/cmm/m/it/12 ==cdn:example:com=videos=video[]\OT1/cmr/m/n/12 9\OML/cmm/m/it/12 :mp\OT1/cmr/m/n/12 4 \OML/cmm/m/it/12 preview[]rl \OT1/cmr/m/n/12 : "\OML/cmm/m/it/12 =previews=bearwolf:mp\OT1/cmr/m/n/12 4 \OML/cmm/m/it/12 image[]rl \OT1/cmr/m/n/12 :
  []
 
 
-Overfull \hbox (27.20792pt too wide) in paragraph at lines 757--773
+Overfull \hbox (27.20792pt too wide) in paragraph at lines 759--775
 \OT1/cmr/m/n/12 "\OML/cmm/m/it/12 =images=bearwolf\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :jpg studios \OT1/cmr/m/n/12 : ["\OML/cmm/m/it/12 MegaPix\OT1/cmr/m/n/12 "]\OML/cmm/m/it/12 ; tags \OT1/cmr/m/n/12 : ["\OML/cmm/m/it/12 documentary \OT1/cmr/m/n/12 "\OML/cmm/m/it/12 action \OT1/cmr/m/n/12 "\OML/cmm/m/it/12 comedy\OT1/cmr/m/n/12 "]\OML/cmm/m/it/12 ; ; :::\OT1/cmr/m/n/12 ]$ 
  []
 
+
+
+[16]
 <../images/pedsovet.png, id=93, 881.54344pt x 336.50719pt>
 File: ../images/pedsovet.png Graphic file (type png)
 <use ../images/pedsovet.png>
-Package pdftex.def Info: ../images/pedsovet.png  used on input line 777.
+Package pdftex.def Info: ../images/pedsovet.png  used on input line 779.
 (pdftex.def)             Requested size: 227.62206pt x 86.88904pt.
 <../images/no-compress_exp1_k6screen.png, id=94, 916.92563pt x 412.54124pt>
 File: ../images/no-compress_exp1_k6screen.png Graphic file (type png)
 <use ../images/no-compress_exp1_k6screen.png>
-Package pdftex.def Info: ../images/no-compress_exp1_k6screen.png  used on input line 813.
+Package pdftex.def Info: ../images/no-compress_exp1_k6screen.png  used on input line 815.
 (pdftex.def)             Requested size: 227.62206pt x 102.41115pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <../images/gzip9_exp1_k6screen.png, id=95, 901.86937pt x 431.36156pt>
 File: ../images/gzip9_exp1_k6screen.png Graphic file (type png)
 <use ../images/gzip9_exp1_k6screen.png>
-Package pdftex.def Info: ../images/gzip9_exp1_k6screen.png  used on input line 820.
+Package pdftex.def Info: ../images/gzip9_exp1_k6screen.png  used on input line 822.
 (pdftex.def)             Requested size: 227.62206pt x 108.86691pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (17.33887pt too wide) in paragraph at lines 824--835
+Overfull \hbox (17.33887pt too wide) in paragraph at lines 826--837
 []\T2A/cmr/m/n/12 ����������� ���-��� ��-����-��: stages: [  duration: "10s target: 10 ,  duration: "20s target:
  []
 
 <../images/no-compress_exp2_k6screen.png, id=96, 885.3075pt x 397.485pt>
 File: ../images/no-compress_exp2_k6screen.png Graphic file (type png)
 <use ../images/no-compress_exp2_k6screen.png>
-Package pdftex.def Info: ../images/no-compress_exp2_k6screen.png  used on input line 839.
+Package pdftex.def Info: ../images/no-compress_exp2_k6screen.png  used on input line 841.
 (pdftex.def)             Requested size: 227.62206pt x 102.19734pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2474,91 +2483,93 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/gzip9_exp2_k6screen.png, id=97, 851.43094pt x 394.47375pt>
 File: ../images/gzip9_exp2_k6screen.png Graphic file (type png)
 <use ../images/gzip9_exp2_k6screen.png>
-Package pdftex.def Info: ../images/gzip9_exp2_k6screen.png  used on input line 846.
+Package pdftex.def Info: ../images/gzip9_exp2_k6screen.png  used on input line 848.
 (pdftex.def)             Requested size: 227.62206pt x 105.45598pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 858.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 858.
+
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 859.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 859.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 859.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 859.
+
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 859.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 859.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 859.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 859.
+
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr8!
 
 
 [17 <../images/pedsovet.png>]
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 856.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 856.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 857.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 857.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 857.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 857.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 857.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 857.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 857.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 857.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-
 [18 <../images/no-compress_exp1_k6screen.png> <../images/gzip9_exp1_k6screen.png> <../images/no-compress_exp2_k6screen.png> <../images/gzip9_exp2_k6screen.png>]
-Overfull \hbox (4.09988pt too wide) in paragraph at lines 868--890
+Overfull \hbox (4.09988pt too wide) in paragraph at lines 870--892
 \T2A/cmr/m/n/12 "10s target: 20 ,  duration: "10s target: 30 ,  duration: "10s target: 40 ,  duration: "10s target:
  []
 
 <../images/second_part/no_compress_screenshot.png, id=109, 948.54375pt x 593.21625pt>
 File: ../images/second_part/no_compress_screenshot.png Graphic file (type png)
 <use ../images/second_part/no_compress_screenshot.png>
-Package pdftex.def Info: ../images/second_part/no_compress_screenshot.png  used on input line 909.
+Package pdftex.def Info: ../images/second_part/no_compress_screenshot.png  used on input line 911.
 (pdftex.def)             Requested size: 227.62206pt x 142.34764pt.
 <../images/second_part/gzip1_screenshot.png, id=110, 955.31906pt x 570.63188pt>
 File: ../images/second_part/gzip1_screenshot.png Graphic file (type png)
 <use ../images/second_part/gzip1_screenshot.png>
-Package pdftex.def Info: ../images/second_part/gzip1_screenshot.png  used on input line 916.
+Package pdftex.def Info: ../images/second_part/gzip1_screenshot.png  used on input line 918.
 (pdftex.def)             Requested size: 227.62206pt x 135.96184pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2566,7 +2577,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/second_part/gzip5_screenshot.png, id=111, 918.43124pt x 575.14874pt>
 File: ../images/second_part/gzip5_screenshot.png Graphic file (type png)
 <use ../images/second_part/gzip5_screenshot.png>
-Package pdftex.def Info: ../images/second_part/gzip5_screenshot.png  used on input line 923.
+Package pdftex.def Info: ../images/second_part/gzip5_screenshot.png  used on input line 925.
 (pdftex.def)             Requested size: 227.62206pt x 142.54063pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2574,7 +2585,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/second_part/gzip9_screenshot.png, id=112, 947.79094pt x 615.80063pt>
 File: ../images/second_part/gzip9_screenshot.png Graphic file (type png)
 <use ../images/second_part/gzip9_screenshot.png>
-Package pdftex.def Info: ../images/second_part/gzip9_screenshot.png  used on input line 930.
+Package pdftex.def Info: ../images/second_part/gzip9_screenshot.png  used on input line 932.
 (pdftex.def)             Requested size: 227.62206pt x 147.88913pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2582,7 +2593,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/second_part/RPS.png, id=113, 726.46407pt x 354.57469pt>
 File: ../images/second_part/RPS.png Graphic file (type png)
 <use ../images/second_part/RPS.png>
-Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 937.
+Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 939.
 (pdftex.def)             Requested size: 227.62206pt x 111.09647pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2590,7 +2601,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/second_part/CPU_load.png, id=114, 725.71124pt x 351.56343pt>
 File: ../images/second_part/CPU_load.png Graphic file (type png)
 <use ../images/second_part/CPU_load.png>
-Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 944.
+Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 946.
 (pdftex.def)             Requested size: 227.62206pt x 110.26563pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2598,7 +2609,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/second_part/Transmission_speed.png, id=115, 731.73375pt x 336.50719pt>
 File: ../images/second_part/Transmission_speed.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 951.
+Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 953.
 (pdftex.def)             Requested size: 227.62206pt x 104.67557pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2606,29 +2617,29 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <../images/second_part/Transmission_speed_withot_nocompress.png, id=116, 748.29562pt x 364.36125pt>
 File: ../images/second_part/Transmission_speed_withot_nocompress.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed_withot_nocompress.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 957.
+Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 959.
 (pdftex.def)             Requested size: 227.62206pt x 110.83257pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:971: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:973: Missing $ inserted.
 <inserted text> 
                 $
-l.971     gzip_
+l.973     gzip_
                types application/json text/plain text/css application/javasc...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:975: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:977: Missing $ inserted.
 <inserted text> 
                 $
-l.975 
+l.977 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (289.39894pt too wide) in paragraph at lines 961--975
+Overfull \hbox (289.39894pt too wide) in paragraph at lines 963--977
 \T2A/cmr/m/n/12 gzip$[]\OML/cmm/m/it/12 ypesapplication=jsontext=plaintext=cssapplication=javascriptapplication=xml\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 gzip[]in[]ength\OT1/cmr/m/n/12 100; \OML/cmm/m/it/12 gzip[]aryon\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 include=etc=nginx=conf:d= \OMS/cmsy/m/n/12 ^^C
  []
 
@@ -2641,161 +2652,161 @@ LaTeX Warning: Text page 20 contains only floats.
 
 
 [20 <../images/second_part/gzip1_screenshot.png> <../images/second_part/gzip5_screenshot.png> <../images/second_part/gzip9_screenshot.png> <../images/second_part/RPS.png>]
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:978: Missing $ inserted.
-<inserted text> 
-                $
-l.978         add_
-                  header Vary Accept-Encoding;
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:979: Missing $ inserted.
-<inserted text> 
-                $
-l.979 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 d:/programing/diploma/Итог/Latex/Итог_GPT.tex:980: Missing $ inserted.
 <inserted text> 
                 $
-l.980         location ^
-                        ~ /gzip/1/ {
+l.980     add_
+              header Vary Accept-Encoding;
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:980: Missing { inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:981: Missing $ inserted.
+<inserted text> 
+                $
+l.981 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:982: Missing $ inserted.
+<inserted text> 
+                $
+l.982     location ^
+                    ~ /gzip/1/ {
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:982: Missing { inserted.
 <to be read again> 
                    \unhbox 
-l.980         location ^~
-                          /gzip/1/ {
+l.982     location ^~
+                      /gzip/1/ {
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:982: Missing } inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:984: Missing } inserted.
 <inserted text> 
                 }
-l.982             rewrite ^/gzip/1/(.*)$
-                                         /$1 break;
+l.984     rewrite ^/gzip/1/(.*)$
+                                 /$1 break;
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:982: Missing } inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:984: Missing } inserted.
 <inserted text> 
                 }
-l.982             rewrite ^/gzip/1/(.*)$
-                                         /$1 break;
+l.984     rewrite ^/gzip/1/(.*)$
+                                 /$1 break;
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:984: Extra }, or forgotten $.
-l.984         }
-               
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:986: Extra }, or forgotten $.
+l.986     }
+           
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:985: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:987: Missing $ inserted.
 <inserted text> 
                 $
-l.985 
+l.987 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:986: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:988: Missing $ inserted.
 <inserted text> 
                 $
-l.986         location ^
-                        ~ /gzip/2/ {
+l.988     location ^
+                    ~ /gzip/2/ {
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:986: Missing { inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:988: Missing { inserted.
 <to be read again> 
                    \unhbox 
-l.986         location ^~
-                          /gzip/2/ {
+l.988     location ^~
+                      /gzip/2/ {
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:988: Missing } inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:990: Missing } inserted.
 <inserted text> 
                 }
-l.988             rewrite ^/gzip/2/(.*)$
-                                         /$1 break;
+l.990     rewrite ^/gzip/2/(.*)$
+                                 /$1 break;
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:988: Missing } inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:990: Missing } inserted.
 <inserted text> 
                 }
-l.988             rewrite ^/gzip/2/(.*)$
-                                         /$1 break;
+l.990     rewrite ^/gzip/2/(.*)$
+                                 /$1 break;
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:990: Extra }, or forgotten $.
-l.990         }
-               
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:992: Extra }, or forgotten $.
+l.992 }
+       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-d:/programing/diploma/Итог/Latex/Итог_GPT.tex:992: Missing $ inserted.
+d:/programing/diploma/Итог/Latex/Итог_GPT.tex:994: Missing $ inserted.
 <inserted text> 
                 $
-l.992 
+l.994 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (2.47507pt too wide) in paragraph at lines 986--992
+Overfull \hbox (2.47507pt too wide) in paragraph at lines 988--994
 []\T2A/cmr/m/n/12 location $[]$ /$\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 break\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 proxy[]asshttp \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 ==server \OT1/cmr/m/n/12 : 3001; \OML/cmm/m/it/12 :::$ 
  []
 
 
 
 [21 <../images/second_part/CPU_load.png> <../images/second_part/Transmission_speed.png> <../images/second_part/Transmission_speed_withot_nocompress.png>]
-Overfull \hbox (46.20554pt too wide) in paragraph at lines 1020--1026
+Overfull \hbox (46.20554pt too wide) in paragraph at lines 1022--1028
 []\T2A/cmr/m/n/12 image/jpeg: JPEG-����������� image/png: PNG-����������� image/gif: GIF-�����������
  []
 
 
-Overfull \hbox (1.71996pt too wide) in paragraph at lines 1020--1026
+Overfull \hbox (1.71996pt too wide) in paragraph at lines 1022--1028
 \T2A/cmr/m/n/12 image/webp: WebP-����������� image/avif: AVIF - ����-��-��-��� image/svg+xml: SVG
+ []
+
+
+Overfull \hbox (13.39493pt too wide) in paragraph at lines 1051--1055
+[]\T2A/cmr/m/n/12 font/woff: WOFF ����-�� font/woff2: WOFF2 ����-�� application/vnd.ms-fontobject:
  []
 
 
 
 [22]
-Overfull \hbox (13.39493pt too wide) in paragraph at lines 1049--1053
-[]\T2A/cmr/m/n/12 font/woff: WOFF ����-�� font/woff2: WOFF2 ����-�� application/vnd.ms-fontobject:
- []
-
-
 
 [23] (./Итог_GPT.aux)
  ***********
@@ -2805,18 +2816,18 @@ L3 programming layer <2025-04-29>
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 760 ({)
+### simple group (level 1) entered at line 762 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  4780 strings out of 469590
  77701 string characters out of 5474519
- 484152 words of memory out of 5000000
+ 484150 words of memory out of 5000000
  31599 multiletter control sequences out of 15000+600000
  635958 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,1161b,257s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,1165b,257s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on Итог_GPT.pdf (23 pages, 6683233 bytes).
+Output written on Итог_GPT.pdf (23 pages, 6673419 bytes).
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream

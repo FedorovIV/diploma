@@ -66,11 +66,11 @@ INPUT d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./Итог_GPT.aux
 INPUT ./Итог_GPT.aux
 INPUT Итог_GPT.aux
+OUTPUT Итог_GPT.aux
 INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
-OUTPUT Итог_GPT.aux
 INPUT d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
