@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  11 JUN 2025 05:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.29)  11 JUN 2025 05:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1019,7 +1019,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <../images/second_part/RPS.png, id=591, 726.46407pt x 354.57469pt>
 File: ../images/second_part/RPS.png Graphic file (type png)
 <use ../images/second_part/RPS.png>
-Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1560.
+Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1555.
 (pdftex.def)             Requested size: 469.47049pt x 229.14528pt.
 
 
@@ -1027,7 +1027,7 @@ Package pdftex.def Info: ../images/second_part/RPS.png  used on input line 1560.
 <../images/second_part/CPU_load.png, id=598, 725.71124pt x 351.56343pt>
 File: ../images/second_part/CPU_load.png Graphic file (type png)
 <use ../images/second_part/CPU_load.png>
-Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 1566.
+Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 1561.
 (pdftex.def)             Requested size: 469.47049pt x 227.43526pt.
 
 
@@ -1035,12 +1035,12 @@ Package pdftex.def Info: ../images/second_part/CPU_load.png  used on input line 
 <../images/second_part/Transmission_speed.png, id=607, 731.73375pt x 336.50719pt>
 File: ../images/second_part/Transmission_speed.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 1572.
+Package pdftex.def Info: ../images/second_part/Transmission_speed.png  used on input line 1567.
 (pdftex.def)             Requested size: 469.47049pt x 215.89786pt.
 <../images/second_part/Transmission_speed_withot_nocompress.png, id=608, 748.29562pt x 364.36125pt>
 File: ../images/second_part/Transmission_speed_withot_nocompress.png Graphic file (type png)
 <use ../images/second_part/Transmission_speed_withot_nocompress.png>
-Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 1578.
+Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompress.png  used on input line 1573.
 (pdftex.def)             Requested size: 469.47049pt x 228.59808pt.
 
 
@@ -1048,7 +1048,7 @@ Package pdftex.def Info: ../images/second_part/Transmission_speed_withot_nocompr
 <../images/timing-model.png, id=618, 1065.9825pt x 555.57562pt>
 File: ../images/timing-model.png Graphic file (type png)
 <use ../images/timing-model.png>
-Package pdftex.def Info: ../images/timing-model.png  used on input line 1610.
+Package pdftex.def Info: ../images/timing-model.png  used on input line 1609.
 (pdftex.def)             Requested size: 469.47049pt x 244.6829pt.
 
 
@@ -1056,18 +1056,18 @@ Package pdftex.def Info: ../images/timing-model.png  used on input line 1610.
 
 [33 <../images/timing-model.png>]
 
-LaTeX Warning: Command \CYRM invalid in math mode on input line 1691.
+LaTeX Warning: Command \CYRM invalid in math mode on input line 1688.
 
 Missing character: There is no М in font cmr8!
 
-Overfull \hbox (1.71768pt too wide) in paragraph at lines 1698--1699
+Overfull \hbox (1.71768pt too wide) in paragraph at lines 1695--1697
 []\T2A/cmr/m/n/12 Применим по-лу-чен-ную фор-му-лу для объ-яс-не-ния ре-зуль-та-тов экс-пе-ри-мен-тов. Для
  []
 
 <../images/rps-from-n.png, id=636, 771.63281pt x 452.4403pt>
 File: ../images/rps-from-n.png Graphic file (type png)
 <use ../images/rps-from-n.png>
-Package pdftex.def Info: ../images/rps-from-n.png  used on input line 1710.
+Package pdftex.def Info: ../images/rps-from-n.png  used on input line 1708.
 (pdftex.def)             Requested size: 469.47049pt x 275.2702pt.
 
 
@@ -1089,7 +1089,7 @@ L3 programming layer <2025-04-29>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `РС‚РѕРі.out' has not changed.
-(rerunfilecheck)             Checksum: 62BEE706CA026894CCB9683B87DDAE8C;14193.
+(rerunfilecheck)             Checksum: 32F39DBB16567C27B257869871C1C54C;14185.
  ) 
 Here is how much of TeX's memory you used:
  20460 strings out of 469590
@@ -1098,9 +1098,9 @@ Here is how much of TeX's memory you used:
  46806 multiletter control sequences out of 15000+600000
  639347 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,80p,761b,2615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,80p,608b,2615s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on РС‚РѕРі.pdf (38 pages, 6899459 bytes).
+Output written on РС‚РѕРі.pdf (38 pages, 6898639 bytes).
 PDF statistics:
  863 PDF objects out of 1000 (max. 8388607)
  738 compressed objects within 8 object streams
