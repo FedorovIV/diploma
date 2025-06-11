@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749601832.4756 "d:/programing/diploma/Итог/Latex/Итог.tex" "Итог.pdf" "Итог" 1749601837.76959 0
+["pdflatex"] 1749602554.48894 "d:/programing/diploma/Итог/Latex/Итог.tex" "Итог.pdf" "Итог" 1749602559.86383 0
   "../images/Brotli compression time (Trimmed Mean).png" 1748811232 48720 b7da51977be26c7f059dde3e5cfec80f ""
   "../images/Brotli compression time (min-overhead).png" 1748811206 46637 fa0c5dfb3fd8843f1eb993bb764faa6a ""
   "../images/Decompression_time.png" 1743465037 101858 26fec0d34a559197edd9a59214f4559d ""
@@ -34,7 +34,7 @@
   "c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1748558707 3512 f3a56cfe95a159371df20f73d1eb107d ""
   "c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1095.tfm" 1748538036 1276 e8f51803ab84b07f08acd5c6da2228c8 ""
   "c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm" 1748535874 1272 bf3bb5cc29880b269c8bcb412a1ac6e2 ""
-  "d:/programing/diploma/Итог/Latex/Итог.tex" 1749601831 116159 2ee3fefd0b521078dd72d20142bf5edf ""
+  "d:/programing/diploma/Итог/Latex/Итог.tex" 1749602549 116825 00e37524432febb16cc40a198a42505a ""
   "d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1748474525 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1748474525 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1748475795 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -151,10 +151,10 @@
   "d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1748480607 5569470 c2741ce98e7884f3b58f74ccd39f8213 ""
   "d:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1748480939 3568627 526d5c0bbfdfc7f39d1d147d40969acf ""
   "d:/texlive/2025/texmf.cnf" 1748480573 713 e69b156964470283e0530f5060668171 ""
-  "Итог.aux" 1749601837 16236 d1437c7c29b58f8cd99f79aa4641e9fc "pdflatex"
-  "Итог.out" 1749601837 14211 fb7d446c603885faf4a33ebd08ab23ca "pdflatex"
-  "Итог.tex" 1749601831 116159 2ee3fefd0b521078dd72d20142bf5edf ""
-  "Итог.toc" 1749601837 6438 76fd7945c2826e0b51a86f06a8775729 "pdflatex"
+  "Итог.aux" 1749602559 16257 28ccb48e135c901483334b9b62cf45a5 "pdflatex"
+  "Итог.out" 1749602559 14206 8fb876da5fb6f76aab5e00ac65f53a41 "pdflatex"
+  "Итог.tex" 1749602549 116825 00e37524432febb16cc40a198a42505a ""
+  "Итог.toc" 1749602559 6437 41d6a1051d766d01719fa5789b3f0b3d "pdflatex"
   (generated)
   "Итог.aux"
   "Итог.log"
