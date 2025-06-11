@@ -60,6 +60,12 @@
     group-digits = false
 }
 
+% Настройка отступов для списков
+\usepackage{enumitem}
+\setlist{nosep} % Убирает все лишние отступы
+\setlist[itemize]{leftmargin=*, labelindent=\parindent,  label={--},  itemindent=.5em }
+\setlist[enumerate]{leftmargin=*, labelindent=\parindent}
+
 \begin{document}
 
 \tableofcontents
@@ -1172,9 +1178,8 @@ $M_{\text{исх}} = 2{,}9\text{ Мб}$, $k_{JPEG} = 8{,}89$, $k_{AVIF} = 16{,}1
 \subsubsection{Эксперимент первый}
 
 Нагрузка:
-
 \begin{lstlisting}[language=JavaScript]
-  stages: [
+stages: [
     { duration: "5s", target: 10 },
     { duration: "10s", target: 20 },
     { duration: "10s", target: 30 },
@@ -1193,14 +1198,26 @@ $M_{\text{исх}} = 2{,}9\text{ Мб}$, $k_{JPEG} = 8{,}89$, $k_{AVIF} = 16{,}1
     { duration: "10s", target: 170 },
     { duration: "10s", target: 190 },
     { duration: "10s", target: 210 },
-    { duration: "5s", target: 5 },
-  ]
+    { duration: "5s", target: 5 }
+]
 \end{lstlisting}
 
-duration - время каждой стадии, target - кол-во одновременно активных пользователей
-Каждый пользователь отправляет запрос на сервер, ждёт ответа, далее ждёт 1 секунду и отправляет запрос снова.
+Параметры:
+\begin{itemize}[label=]
+    \item duration — длительность каждой стадии
+    \item target — количество одновременно активных пользователей
+\end{itemize}
 
-\begin{table}[h]
+Каждый пользователь:
+
+\begin{enumerate}
+    \item Отправляет запрос на сервер
+    \item Ожидает ответ
+    \item Ждёт 1 секунду
+    \item Повторяет цикл
+\end{enumerate}
+
+\begin{table}[H]
     \centering
     \caption{Результаты без сжатия}
     \begin{tabular}{lr}
@@ -1208,29 +1225,24 @@ duration - время каждой стадии, target - кол-во однов
         \textbf{Метрика}                          & \textbf{Значение}               \\
         \midrule
         Всего проверок (checks\_total)            & 4662                            \\
-        \hline
         Среднее время получения (receiving\_time) & \SI{2660}{\milli\second}        \\
         Минимальное время получения               & \SI{187}{\milli\second}         \\
         Медианное время получения                 & \SI{2388}{\milli\second}        \\
         Максимальное время получения              & \SI{45987}{\milli\second}       \\
-        \hline
         Среднее общее время (total\_duration)     & \SI{2770}{\milli\second}        \\
         Медианное общее время                     & \SI{2492}{\milli\second}        \\
         90-й персентиль общего времени            & \SI{5476}{\milli\second}        \\
-        \hline
         Среднее время ожидания (waiting\_time)    & \SI{106}{\milli\second}         \\
-        \hline
         Средняя продолжительность HTTP-запроса    & \SI{2.7}{\second}               \\
         90-й персентиль HTTP-запросов             & \SI{5.47}{\second}              \\
-        \hline
         Получено данных (Network data received)   & \SI{4.9}{\mega\byte\per\second} \\
         \bottomrule
     \end{tabular}
 \end{table}
 
-\begin{table}[h]
+\begin{table}[H]
     \centering
-    \caption{Результаты без сжатия}
+    \caption{Перцентили времени ответа (без сжатия)}
     \begin{tabular}{lS[table-format=5.5]}
         \toprule
         \textbf{Метрика} & \textbf{Время (\si{\milli\second})} \\
@@ -1243,7 +1255,7 @@ duration - время каждой стадии, target - кол-во однов
     \end{tabular}
 \end{table}
 
-\begin{table}[h]
+\begin{table}[H]
     \centering
     \caption{Результаты с сжатием (gzip 9)}
     \begin{tabular}{lr}
@@ -1252,21 +1264,16 @@ duration - время каждой стадии, target - кол-во однов
         \midrule
         Всего проверок (checks\_total)            & 10324                           \\
         Частота проверок                          & \SI{57.0}{\per\second}          \\
-        \hline
         Среднее время получения (receiving\_time) & \SI{1.45}{\milli\second}        \\
         Минимальное время получения               & \SI{6}{\milli\second}           \\
         Медианное время получения                 & \SI{1.00}{\milli\second}        \\
         Максимальное время получения              & \SI{592}{\milli\second}         \\
-        \hline
         Среднее общее время (total\_duration)     & \SI{671}{\milli\second}         \\
         Медианное общее время                     & \SI{609}{\milli\second}         \\
         90-й персентиль общего времени            & \SI{1511}{\milli\second}        \\
-        \hline
         Среднее время ожидания (waiting\_time)    & \SI{670}{\milli\second}         \\
-        \hline
         Средняя продолжительность HTTP-запроса    & \SI{671}{\milli\second}         \\
         90-й персентиль HTTP-запросов             & \SI{1515}{\milli\second}        \\
-        \hline
         Получено данных (Network data received)   & \SI{339}{\kilo\byte\per\second} \\
         \bottomrule
     \end{tabular}
@@ -1274,7 +1281,7 @@ duration - время каждой стадии, target - кол-во однов
 
 \begin{table}[H]
     \centering
-    \caption{Результаты с сжатием (gzip 9)}
+    \caption{Перцентили времени ответа (с сжатием gzip 9)}
     \begin{tabular}{lS[table-format=4.5]}
         \toprule
         \textbf{Метрика} & \textbf{Время (\si{\milli\second})} \\
@@ -1290,20 +1297,19 @@ duration - время каждой стадии, target - кол-во однов
 \subsubsection{Эксперимент второй}
 
 Нагрузка:
-
 \begin{lstlisting}[language=JavaScript]
-   stages: [
+stages: [
     { duration: "10s", target: 10 },
     { duration: "20s", target: 10 },
     { duration: "20s", target: 15 },
     { duration: "20s", target: 20 },
     { duration: "20s", target: 25 },
     { duration: "20s", target: 30 },
-    { duration: "10s", target: 5 },
-  ]
+    { duration: "10s", target: 5 }
+]
 \end{lstlisting}
 
-\begin{table}[h]
+\begin{table}[H]
     \centering
     \caption{Метрики производительности (без сжатия, эксперимент 2)}
     \label{tab:metrics}
@@ -1317,19 +1323,16 @@ duration - время каждой стадии, target - кол-во однов
         Скорость получения данных                 & \SI{2.5}{\mega\byte\per\second} \\
         \hline
         \multicolumn{2}{l}{\textbf{Временные характеристики}}                       \\
-        Среднее время получения (receiving\_time) & 309.4\ мс                       \\
-        Медианное время получения                 & 266.4\ мс                       \\
-        Максимальное время получения              & 1099.2\ мс                      \\
-        \hline
-        Среднее общее время (total\_duration)     & 380.0\ мс                       \\
-        Медианное общее время                     & 338.6\ мс                       \\
-        90-й персентиль общего времени            & 518.7\ мс                       \\
-        \hline
-        Среднее время ожидания (waiting\_time)    & 70.5\ мс                        \\
-        Медианное время ожидания                  & 69.4\ мс                        \\
-        \hline
-        Среднее время HTTP-запроса                & 380.0\ мс                       \\
-        90-й персентиль HTTP-запросов             & 518.7\ мс                       \\
+        Среднее время получения (receiving\_time) & 309.4 мс                        \\
+        Медианное время получения                 & 266.4 мс                        \\
+        Максимальное время получения              & 1099.2 мс                       \\
+        Среднее общее время (total\_duration)     & 380.0 мс                        \\
+        Медианное общее время                     & 338.6 мс                        \\
+        90-й персентиль общего времени            & 518.7 мс                        \\
+        Среднее время ожидания (waiting\_time)    & 70.5 мс                         \\
+        Медианное время ожидания                  & 69.4 мс                         \\
+        Среднее время HTTP-запроса                & 380.0 мс                        \\
+        90-й персентиль HTTP-запросов             & 518.7 мс                        \\
         \bottomrule
     \end{tabular}
 \end{table}
