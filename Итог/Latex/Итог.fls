@@ -157,6 +157,8 @@ INPUT d:/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT d:/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT d:/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT d:/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -204,10 +206,6 @@ INPUT d:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 OUTPUT Итог.toc
-INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT ../images/Схема_веб-приложения.png
@@ -215,6 +213,10 @@ INPUT ../images/Схема_веб-приложения.png
 INPUT ../images/Схема_веб-приложения.png
 INPUT ../images/Схема_веб-приложения.png
 INPUT ../images/Схема_веб-приложения.png
+INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+INPUT d:/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm
 INPUT d:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -272,16 +274,16 @@ INPUT ../images/brotli_compressed_ratio.png
 INPUT ../images/brotli_compressed_ratio.png
 INPUT ../images/brotli_compressed_ratio.png
 INPUT ../images/brotli_compressed_ratio.png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Gzip compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
-INPUT ../images/Brotli compression time (Trimmed Mean).png
+INPUT ../images/Gzip comp time (mean).png
+INPUT ../images/Gzip comp time (mean).png
+INPUT ../images/Gzip comp time (mean).png
+INPUT ../images/Gzip comp time (mean).png
+INPUT ../images/Gzip comp time (mean).png
+INPUT ../images/Brotli comp time (mean).png
+INPUT ../images/Brotli comp time (mean).png
+INPUT ../images/Brotli comp time (mean).png
+INPUT ../images/Brotli comp time (mean).png
+INPUT ../images/Brotli comp time (mean).png
 INPUT ../images/Gzip compression time (min-overhead).png
 INPUT ../images/Gzip compression time (min-overhead).png
 INPUT ../images/Gzip compression time (min-overhead).png
@@ -332,6 +334,16 @@ INPUT ../images/rps-from-n.png
 INPUT ../images/rps-from-n.png
 INPUT ../images/rps-from-n.png
 INPUT ../images/rps-from-n.png
+INPUT ../images/rps_from_v.png
+INPUT ../images/rps_from_v.png
+INPUT ../images/rps_from_v.png
+INPUT ../images/rps_from_v.png
+INPUT ../images/rps_from_v.png
+INPUT ../images/klimanov_tcp.png
+INPUT ../images/klimanov_tcp.png
+INPUT ../images/klimanov_tcp.png
+INPUT ../images/klimanov_tcp.png
+INPUT ../images/klimanov_tcp.png
 INPUT c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
 INPUT Итог.aux
 INPUT ./Итог.out

@@ -17,6 +17,7 @@
 \contentsline {subsubsection}{\numberline {2.5.3}Формат Deflate}{9}{subsubsection.2.5.3}%
 \contentsline {subsubsection}{\numberline {2.5.4}Формат сжатия Gzip (GNU zip)}{10}{subsubsection.2.5.4}%
 \contentsline {subsubsection}{\numberline {2.5.5}За счёт чего можно добиться разных степеней сжатия?}{10}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Немного о Brotli}{10}{subsubsection.2.5.6}%
 \contentsline {subsection}{\numberline {2.6}Инструменты разработчика браузера}{10}{subsection.2.6}%
 \contentsline {subsubsection}{\numberline {2.6.1}Браузеры и JavaScript}{10}{subsubsection.2.6.1}%
 \contentsline {subsubsection}{\numberline {2.6.2}Какие функции предоставляет консоль разработчика}{11}{subsubsection.2.6.2}%
@@ -44,11 +45,11 @@
 \contentsline {subsubsection}{\numberline {3.4.3}Эксперимент первый}{24}{subsubsection.3.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.4}Эксперимент второй}{26}{subsubsection.3.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.5}Анализ полученных результатов}{27}{subsubsection.3.4.5}%
-\contentsline {subsubsection}{\numberline {3.4.6}Зависимость CPU load и Network load от уровня сжатия}{28}{subsubsection.3.4.6}%
-\contentsline {subsubsection}{\numberline {3.4.7}Анализ полученных результатов}{32}{subsubsection.3.4.7}%
-\contentsline {subsection}{\numberline {3.5}Реализация переключателя}{35}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Дополнительный обратный прокси-сервер на Express.js}{35}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Реконфигуратор Nginx}{36}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Модуль для Nginx}{36}{subsubsection.3.5.3}%
-\contentsline {section}{\numberline {4}Общие выводы}{36}{section.4}%
-\contentsline {subsection}{\numberline {4.1}План дальнейших исследований}{37}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.6}Зависимость загрузки ЦП и сети от уровня сжатия}{28}{subsubsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.7}Оценка ключевых метрик}{32}{subsubsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.5}Реализация переключателя}{36}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Дополнительный обратный прокси-сервер на Express.js}{36}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Реконфигуратор Nginx}{37}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Модуль для Nginx}{37}{subsubsection.3.5.3}%
+\contentsline {section}{\numberline {4}Общие выводы}{37}{section.4}%
+\contentsline {subsection}{\numberline {4.1}План дальнейших исследований}{38}{subsection.4.1}%

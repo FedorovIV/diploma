@@ -1,0 +1,689 @@
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:48 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b1e-d+ibzdcfaUjqeZohXzIcEcnD2WM"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.015131
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:49 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19bdb-uhty5PVVthr1WRO4MQ7mzp1o4hQ"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.016468
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:49 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b54-XXrofo5mKEzJV71LOqJFRICJL2s"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.031043
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:50 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b5d-xsoK5ugIDIQ/p1eavkdxQJ4pj1A"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.024513
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:50 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19c3c-0Mqgb0FF1hBOhTCnwZIiYQd/JyU"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.015476
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:51 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b26-z9X5+djcL/uwwJ5f5JcKKFs17b8"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.027881
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:51 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b21-gkXo8FxpcAgO7aFzU1DeY5D8I2g"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.016878
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:52 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b76-CoAWffUgno81Yb8R67ca9oKYuKo"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.014449
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:52 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b34-eWKuwB5BwHlSd/TpKqTEVKUGexM"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.016247
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:53 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b8a-B5J2pY2csm8n7ji/kkl2TtX7r6A"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.014437
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:53 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b6a-kv5A4Lkjo1utc49RryxePBjeK6I"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.015636
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:54 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b53-BSv6pj5jNuPFR9KFpXjZp8tIxvs"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.012556
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:54 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b01-jmM3vEPJJo1XzCoeqC9AZX9Xk9A"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.013894
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:54 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19bc4-bQWnrKDbxNB6LxqA1NEhIaySib8"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.012543
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:55 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b3c-vI2JByTqn0Png62mMvZlLH48Hm0"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.013325
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:55 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19afd-qUhub/R7zZJLJFzIKoMkqzK6+Wc"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.017130
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:56 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19ba7-JSBWPyG4TRuIih6XRvO0RAFUl2Y"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.013392
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:56 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19aec-itiVdHFA+GhSS+8ZNXWHO/MEFYk"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.013069
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:57 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b4f-D06daM1alXPO7puw6Z2etrja+Dg"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.016331
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:57 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b8e-aItgOIG3dtnmLIUOtheo/AhWsj0"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.012176
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:58 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b34-qeGuWyzN12u3kojrude1PvTJteQ"
+< Content-Encoding: gzip
+< 
+{ [3987 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.011688
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:58 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b23-JrxnIJY29xxebbVQbB+TzVib6XU"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.012463
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:59 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b6f-FglGWFszhtOEG5XsfV/8OWyNEJw"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.018206
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:02:59 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b62-nkFgytdaSn80OLDZq7MQIj3fVR4"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.012272
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:03:00 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19b20-fy0r57e7vAkcsH8SYSHmW2z8oIg"
+< Content-Encoding: gzip
+< 
+{ [3998 bytes data]
+* Connection #0 to host localhost left intact
+TTFB: 0.012986
+root@31511-50354:/video-hosting# curl -v -H "Accept-Encoding: gzip, deflate" -o /dev/null -s -w 'TTFB: %{time_starttransfer}\n' http://localhost:3002/video/getRecommendations/1
+*   Trying ::1:3002...
+* TCP_NODELAY set
+* Connected to localhost (::1) port 3002 (#0)
+> GET /video/getRecommendations/1 HTTP/1.1
+> Host: localhost:3002
+> User-Agent: curl/7.68.0
+> Accept: */*
+> Accept-Encoding: gzip, deflate
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: nginx/1.27.5
+< Date: Thu, 12 Jun 2025 03:03:00 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Vary: Accept-Encoding
+< X-Powered-By: Express
+< Vary: Origin
+< Access-Control-Allow-Credentials: true
+< ETag: W/"19be7-vB9yqAD4TK3rLBDQkNk6Z9xgYwU"
+< Content-Encoding: gzip
+< 
