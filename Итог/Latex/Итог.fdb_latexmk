@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1750067985.42676 "d:/programing/diploma/Итог/Latex/Итог.tex" "Итог.pdf" "Итог" 1750067991.10751 0
+["pdflatex"] 1750068249.31743 "d:/programing/diploma/Итог/Latex/Итог.tex" "Итог.pdf" "Итог" 1750068255.05144 0
   "../images/Brotli comp time (mean).png" 1750038658 53181 afaa85d593055958ff3c4eb6f0cd8eea ""
   "../images/Brotli compression time (min-overhead).png" 1750039967 56480 9c7c485d9bb323545b137661745b0d77 ""
   "../images/Decompression_time.png" 1743465037 101858 26fec0d34a559197edd9a59214f4559d ""
@@ -36,7 +36,7 @@
   "c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1748558707 3512 f3a56cfe95a159371df20f73d1eb107d ""
   "c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1095.tfm" 1748538036 1276 e8f51803ab84b07f08acd5c6da2228c8 ""
   "c:/Users/ilyaf/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/latt1200.tfm" 1748535874 1272 bf3bb5cc29880b269c8bcb412a1ac6e2 ""
-  "d:/programing/diploma/Итог/Latex/Итог.tex" 1750067977 128039 6c31c9f9c3e50e47a57a7534f22094b7 ""
+  "d:/programing/diploma/Итог/Latex/Итог.tex" 1750068241 127905 8f1545ad19198b2d6b19c3c51fd00a9c ""
   "d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1748474525 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1748474525 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1748475795 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -154,10 +154,10 @@
   "d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1748480607 5569470 c2741ce98e7884f3b58f74ccd39f8213 ""
   "d:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1748480939 3568627 526d5c0bbfdfc7f39d1d147d40969acf ""
   "d:/texlive/2025/texmf.cnf" 1748480573 713 e69b156964470283e0530f5060668171 ""
-  "Итог.aux" 1750067990 19536 bcf4bd748ff16a1db8c4d28b14f0c27c "pdflatex"
-  "Итог.out" 1750067990 14321 5ed53a4c3a8af0921af107e7b8b857d3 "pdflatex"
-  "Итог.tex" 1750067977 128039 6c31c9f9c3e50e47a57a7534f22094b7 ""
-  "Итог.toc" 1750067990 6533 91fad31c74088e8a696d69b1e1851ee4 "pdflatex"
+  "Итог.aux" 1750068254 19536 92233bbb432f09888d4b78f19e78ad12 "pdflatex"
+  "Итог.out" 1750068254 14321 5ed53a4c3a8af0921af107e7b8b857d3 "pdflatex"
+  "Итог.tex" 1750068241 127905 8f1545ad19198b2d6b19c3c51fd00a9c ""
+  "Итог.toc" 1750068254 6533 91fad31c74088e8a696d69b1e1851ee4 "pdflatex"
   (generated)
   "Итог.aux"
   "Итог.log"
